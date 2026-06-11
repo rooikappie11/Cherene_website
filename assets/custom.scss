@@ -1,0 +1,15 @@
+/* Navigation bar */
+.navbar {
+  background-color: #004f52; /* dark teal */
+}
+
+/* Navigation links */
+.navbar a,
+.navbar-nav .nav-link {
+  color: #ffffff !important;
+}
+
+.navbar a:hover,
+.navbar-nav .nav-link:hover {
+  color: #cfae4f !important; /* ochre highlight */
+}

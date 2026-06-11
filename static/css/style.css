@@ -1,0 +1,35 @@
+/* NAV STYLES – KEEP THESE */
+header,
+header *,
+.site-header,
+.site-header *,
+nav,
+nav *,
+.topnav,
+.topnav *,
+.menu,
+.menu *,
+.nav,
+.nav * {
+  background-color: #004f52 !important;
+}
+
+header.site-header {
+  background-color: #004f52 !important;
+  border-bottom: none !important;
+}
+
+nav a {
+  color: #ffffff !important;
+  font-weight: 500;
+}
+
+nav a:hover {
+  color: #cfae4f !important;
+}
+<!-- FULL-WIDTH CAREER IMAGE -->
+<div style="width: 100vw; margin-left: calc(50% - 50vw); text-align: center; margin-top: 20px; margin-bottom: 20px;">
+  <img src="/images/CdB_Careerpath.png"
+       alt="Cherene de Bruyn career path"
+       style="width: 100%; height: auto; max-width: 1600px; mix-blend-mode: multiply;">
+</div>
