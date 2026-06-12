@@ -1,7 +1,7 @@
 ---
 title: "Projects"
-date: "2026-06-10"
 ---
+
 <h4 style="margin-bottom: 4px;">Table of Contents</h4>
 
 <div style="font-size: 0.85rem; line-height: 1.3; margin-top: 0;">
@@ -25,7 +25,7 @@ date: "2026-06-10"
 <!-- Project 2 -->
   <li style="margin-bottom: 20px;">
     <img src="/images/trowel.png" style="width:24px; vertical-align: middle; margin-right:10px;">
-    <a href="/content/projects/fieldwork/grassridge/" style="color:#004f52; font-size:20px; font-weight:600;">
+    <a href="/projects/fieldwork/grassridge/" style="color:#004f52; font-size:20px; font-weight:600;">
       Grassridge Archaeological and Palaeo-environmental Project
     </a>
   </li>
@@ -77,5 +77,5 @@ date: "2026-06-10"
     <img src="/images/trowel.png" style="width:24px; vertical-align: middle; margin-right:10px;">
     <a href="/projects/outreach/pacs_ao/" style="color:#004f52; font-size:20px; font-weight:600;">
       Pretoria Archaeology Club for Schools Archaeology Olympics
-    </a>
+    </a> 
   </li>

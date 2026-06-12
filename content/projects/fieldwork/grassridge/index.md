@@ -16,7 +16,7 @@ Leakey Foundation and Wenner-Gren Foundation-funded Grassridge Archaeological an
        style="width:600px;">
 </div>
 
-### My Role
+### My Role 
 **Field and Lab Assistant**  
 - Stratigraphic excavation skills: Carried out controlled excavation and detailed field recording of Stone Age artefacts and features, ensuring complete and accurate documentation.
 - Specialist recovery techniques: Applied field sieving methods to collect and sort lithics, microfauna and ostrich eggshell beads.
