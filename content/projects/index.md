@@ -61,7 +61,6 @@ date: "2026-06-10"
       Archaeology Field School in Sudwala 
     </a>
   </li>
-
 </ul>
 
 ## Outreach
