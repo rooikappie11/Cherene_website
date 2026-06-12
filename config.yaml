@@ -19,9 +19,7 @@ menu:
       url: "/talks/"
     - name: Projects
       url: "/projects/"
-    - name: "Substack"
-      url: "https://cherenedebruyn.substack.com"
-      
+
 params:
   customCSS: ["css/style.css"]
   description: "A website built through Hugo and blogdown."
@@ -33,7 +31,7 @@ params:
   MathJaxVersion: "2.7.5"
   favicon: "favicon.ico"
   logo:
-    url: "CdBlogo.png"
+    url: "CdBlogo2.png"
     width: 50
     height: 50
     alt: "Logo"

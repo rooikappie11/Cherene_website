@@ -12,7 +12,10 @@ University of Pretoria, South Africa
 ### Site Description
 Excavations at the Sudwala Caves in the Mpumalanga Province of South Africa.
 
-<img src="/projects/fieldwork/sudwala/sudwala1.png" style="width:500px; margin-right:20px;">
+<div style="display:flex; justify-content:center;">
+  <img src="/projects/fieldwork/sudwala/sudwala1.png" 
+  style="width:500px;">
+</div>
 
 ### My Role
 **Student Field Assistant**  
@@ -21,6 +24,5 @@ Excavations at the Sudwala Caves in the Mpumalanga Province of South Africa.
 - Systematic artefact recording: Recorded artefacts through contextual photography and accurate bagging for subsequent analysis.
 
 <!-- ### Images-->
-
 <!-- ### Project Articles -->
 <!--[📄 KwaZulu-Natal Branch Newsletter](projects/fieldwork/umbeli_belli/kznnewsletter.pdf) -->

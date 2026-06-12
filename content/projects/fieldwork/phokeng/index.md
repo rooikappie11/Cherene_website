@@ -12,7 +12,10 @@ University of Pretoria, South Africa
 ### Site Description
  The former 19th-century estate and country house of the Boer Republic President Paul Kruger, located in the North West Province of South Africa.
 
-<img src="/projects/fieldwork/phokeng/boek1.JPG" style="width:500px; margin-right:20px;">
+<div style="display:flex; justify-content:center;">
+  <img src="/projects/fieldwork/phokeng/boek1.JPG" 
+       style="width:500px;">
+</div>
 
 ### My Role
 **Student Field Assistant**  
@@ -22,9 +25,10 @@ University of Pretoria, South Africa
 - Artefact processing competence: Washed potsherds, supporting material identification and post‑excavation assessment..
 
 ### Images
-<img src="/projects/fieldwork/phokeng/boek2.JPG" style="width:230px; margin-right:20px;">
-<img src="/projects/fieldwork/phokeng/boek3.JPG" style="width:230px; margin-right:20px;">
-<img src="/projects/fieldwork/phokeng/boek4.jpg" style="width:150px; margin-right:20px;">
-
+<div style="display:flex; justify-content:center;">
+  <img src="/projects/fieldwork/phokeng/boek2.JPG" style="width:230px; margin-right:20px;">
+  <img src="/projects/fieldwork/phokeng/boek3.JPG" style="width:230px; margin-right:20px;">
+  <img src="/projects/fieldwork/phokeng/boek4.jpg" style="width:150px; margin-right:20px;">
+</div>
 <!-- ### Project Articles -->
-<!--[📄 KwaZulu-Natal Branch Newsletter](projects/fieldwork/umbeli_belli/kznnewsletter.pdf) -->
+<!--[📄 KwaZulu-Natal Branch Newsletter](projects/fieldwork/umbeli_belli/kznnewsletter.pdf)-->

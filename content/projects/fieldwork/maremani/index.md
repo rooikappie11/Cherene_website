@@ -12,8 +12,10 @@ University of Pretoria, South Africa
 ### Site Description
 Middle Iron Age site excavations at the Maremani Nature Reserve in the Limpopo Province of South Africa.
 
-<img src="/projects/fieldwork/maremani/mar1.jpg" style="width:500px; margin-right:20px;">
-
+<div style="display:flex; justify-content:center;">
+  <img src="/projects/fieldwork/maremani/mar1.jpg" 
+  style="width:500px">
+</div>
 
 ### My Role
 **Student Field Assistant**  
@@ -22,6 +24,7 @@ Middle Iron Age site excavations at the Maremani Nature Reserve in the Limpopo P
 - Collections handling ability: Assisted with cataloguing and cleaning artefacts to maintain clear provenance and organised site records.
 
 ### Images
+
 <img src="/projects/fieldwork/maremani/mar2.jpg" style="width:300px; margin-right:20px;">
 <img src="/projects/fieldwork/maremani/mar3.jpg" style="width:300px; margin-right:20px;">
 <img src="/projects/fieldwork/maremani/mar4.jpg" style="width:300px; margin-right:20px;">

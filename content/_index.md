@@ -2,17 +2,15 @@
 title: ""
 ---
 
-<div style="background-color: #FFF4EC; padding: 25px; border-radius: 8px; margin-top: 20px; margin-left: -3cm; margin-right: -3cm;">
+<div style="background-color: #FFF4EC; padding: 10px; border-radius: 5px; margin-top: 0px; margin-left: -3cm; margin-right: -3cm;">
 
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 40px;">
-
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 5px;">
 <!-- LEFT SIDE -->
   <div style="flex: 1;">
-
-  <h1 style="margin-top: 0; margin-bottom: 5px; color: #004f52; font-size: 42px; font-weight: 700;">
+ <!--<h1 style="margin-top: 0; margin-bottom: 5px; color: #004f52; font-size: 35px; font-weight: 700;">
         Cherene de Bruyn
-  </h1>
-
+  </h1> -->
+  
   <h2 style="margin-top: 0; color: #004f52;">
        <em>The Grave Scientist</em>  </h2>
   <h4 style="font-weight: normal;">
@@ -66,7 +64,7 @@ title: ""
   width: 100vw;
   text-align: center;
 ">
-  <img src="/images/CdBCareer.png"
+  <img src="/images/career.png"
        alt="Cherene de Bruyn career path"
        style="width: 100%; height: auto; max-width: 1000px;">
 </div>
