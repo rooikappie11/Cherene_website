@@ -14,7 +14,7 @@ title: ""
   <h2 style="margin-top: 0; color: #004f52;">
        <em>The Grave Scientist</em>  </h2>
   <h4 style="font-weight: normal;">
-        Liverpool John Moores University
+        Liverpool John Moores University  
         <em>  c.debruyn@2024.ljmu.ac.uk</em>  
   </h4>
 
