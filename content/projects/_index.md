@@ -6,11 +6,21 @@ title: "Projects"
 
 <div style="font-size: 0.85rem; line-height: 1.3; margin-top: 0;">
   <ul style="list-style-type: none; padding-left: 0; margin-top: 0;">
+    <li>- <a href="#research">Fieldwork</a></li>
     <li>- <a href="#fieldwork">Fieldwork</a></li>
     <li>- <a href="#outreach">Outreach</a></li>
   </ul>
 </div>
 
+## Research
+<!-- Research 1 -->
+  <li style="margin-bottom: 20px;">
+    <img src="/images/trowel.png" style="width:24px; vertical-align: middle; margin-right:10px;">
+    <a href="/projects/research/phd/" style="color:#004f52; font-size:20px; font-weight:600;">
+      Clandestine Grave Location
+    </a>
+  </li>
+  
 ## Fieldwork
 <ul style="list-style: none; padding-left: 0;">
 
@@ -79,3 +89,9 @@ title: "Projects"
       Pretoria Archaeology Club for Schools Archaeology Olympics
     </a> 
   </li>
+  
+<style>
+.archive {
+  display: none !important;
+}
+</style>

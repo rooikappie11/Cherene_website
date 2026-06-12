@@ -44,9 +44,51 @@ title: ""
 
 <!-- RIGHT SIDE -->
   <div>
-      <img src="/images/2018.jpeg"
-           style="width: 420px; border-radius: 0; mix-blend-mode: multiply;">
-    </div>
+<div class="slideshow">
+  <img class="slide" src="/images/2018.jpeg">
+  <img class="slide" src="/images/image2.png">
+  <img class="slide" src="/images/image3.jpg">
+  <img class="slide" src="/images/image4.jpg">
+  <img class="slide" src="/images/image5.jpg">
+</div>
+
+<style>
+.slideshow {
+  width: 420px;
+  height: 520px; /* fixed height so images don't jump */
+  position: relative;
+  overflow: hidden;
+}
+
+.slide {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;      /* force same width */
+  height: 100%;     /* force same height */
+  object-fit: cover; /* crop gently to fill the box */
+  opacity: 0;
+  animation: fade 15s infinite ease-in-out;
+}
+
+/* 5 images → 15s total → 3s per image */
+.slide:nth-child(1) { animation-delay: 0s; }
+.slide:nth-child(2) { animation-delay: 3s; }
+.slide:nth-child(3) { animation-delay: 6s; }
+.slide:nth-child(4) { animation-delay: 9s; }
+.slide:nth-child(5) { animation-delay: 12s; }
+
+@keyframes fade {
+  0%   { opacity: 0; }
+  8%   { opacity: 1; }
+  25%  { opacity: 1; }
+  33%  { opacity: 0; }
+  100% { opacity: 0; }
+}
+</style>
+
+
+</div>
 
   </div>
 
