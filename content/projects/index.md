@@ -17,7 +17,7 @@ date: "2026-06-10"
 <!-- Project 1 -->
   <li style="margin-bottom: 20px;">
     <img src="/images/trowel.png" style="width:24px; vertical-align: middle; margin-right:10px;">
-    <a href="/content/projects/fieldwork/umbeli_belli/" style="color:#004f52; font-size:20px; font-weight:600;">
+    <a href="/projects/fieldwork/umbeli_belli/" style="color:#004f52; font-size:20px; font-weight:600;">
       Umbelli Beli Middle Stone Age Excavation
     </a>
   </li>
@@ -33,7 +33,7 @@ date: "2026-06-10"
  <!-- Project 3 -->
   <li style="margin-bottom: 20px;">
     <img src="/images/trowel.png" style="width:24px; vertical-align: middle; margin-right:10px;">
-    <a href="/content/projects/fieldwork/maremani/" style="color:#004f52; font-size:20px; font-weight:600;">
+    <a href="/projects/fieldwork/maremani/" style="color:#004f52; font-size:20px; font-weight:600;">
       Maremani Nature Reserve Excavation
     </a>
   </li>
@@ -41,7 +41,7 @@ date: "2026-06-10"
 <!-- Project 4 -->
   <li style="margin-bottom: 20px;">
     <img src="/images/trowel.png" style="width:24px; vertical-align: middle; margin-right:10px;">
-    <a href="/content/projects/fieldwork/phokeng/" style="color:#004f52; font-size:20px; font-weight:600;">
+    <a href="/projects/fieldwork/phokeng/" style="color:#004f52; font-size:20px; font-weight:600;">
       Archaeology Field School Boekenhoutfontein Farm in Phokeng
     </a>
   </li>
@@ -49,7 +49,7 @@ date: "2026-06-10"
 <!-- Project 5 -->
   <li style="margin-bottom: 20px;">
     <img src="/images/trowel.png" style="width:24px; vertical-align: middle; margin-right:10px;">
-    <a href="/content/projects/fieldwork/lephalale/" style="color:#004f52; font-size:20px; font-weight:600;">
+    <a href="/projects/fieldwork/lephalale/" style="color:#004f52; font-size:20px; font-weight:600;">
       Archaeology Field School in Lephalale 
     </a>
   </li>
@@ -57,7 +57,7 @@ date: "2026-06-10"
 <!-- Project 6 -->
   <li style="margin-bottom: 20px;">
     <img src="/images/trowel.png" style="width:24px; vertical-align: middle; margin-right:10px;">
-    <a href="/content/projects/fieldwork/sudwala/" style="color:#004f52; font-size:20px; font-weight:600;">
+    <a href="/projects/fieldwork/sudwala/" style="color:#004f52; font-size:20px; font-weight:600;">
       Archaeology Field School in Sudwala 
     </a>
   </li>
