@@ -1,9 +1,5 @@
 <footer class="footer">
 
-   <br>
-  <img src = "{{"images/CdBlogo2.png" | relURL}}" alt="Cherene site logo" widht = 80 height="80">
-  <br>
-
   <ul class="footer-links">
 
     {{ with .OutputFormats.Get "RSS" }}
@@ -13,27 +9,16 @@
         </a>
       </li>
     {{ end }}
-
+    
+    
     <li>
       <a href="https://gohugo.io/" class="footer-links-kudos">
         Made with
         <img src="{{ "images/hugo-logo.png" | relURL }}"
-             alt="Img link to Hugo website"
-             width="22"
-             height="22">
+             alt="Img link to Hugo website" width="22" height="22">
       </a>
     </li>
 
   </ul>
 
 </footer>
-
-</div>
-
-{{ partial "footer_highlightjs" . }}
-{{ partial "footer_mathjax" . }}
-{{ template "_internal/google_analytics.html" . }}
-</div>
-
-</body>
-</html>

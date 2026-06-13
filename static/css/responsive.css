@@ -1,8 +1,7 @@
-/* Make ALL images responsive */
+/* Make ALL images responsive, even if they have fixed inline widths */
 img {
   max-width: 100% !important;
   height: auto !important;
-  display: block;
 }
 
 /* Prevent horizontal scrolling */
@@ -10,21 +9,32 @@ body, html {
   overflow-x: hidden;
 }
 
-/* Make flex layouts wrap on small screens */
-.flex-row, .row, .columns, .header-flex {
+/* Make all flex layouts wrap on small screens */
+* {
+  box-sizing: border-box;
+}
+
+.responsive-flex, .flex-row, .row, .columns, .header-flex {
   display: flex;
-  flex-wrap: wrap;
+  flex-wrap: wrap !important;
   gap: 20px;
 }
 
 /* Stack columns on mobile */
-@media (max-width: 700px) {
-  .flex-row, .row, .columns, .header-flex {
+@media (max-width: 768px) {
+  .responsive-flex, .flex-row, .row, .columns, .header-flex {
     flex-direction: column !important;
-    text-align: center;
+    text-align: center !important;
   }
 
+  /* Make headings readable on small screens */
   h1, h2, h3, h4 {
-    text-align: center;
+    text-align: center !important;
+    word-break: break-word;
+  }
+
+  /* Prevent any element from overflowing */
+  * {
+    max-width: 100% !important;
   }
 }

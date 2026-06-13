@@ -28,3 +28,25 @@ nav a:hover {
   color: #cfae4f !important;
 }
 
+/* Keep logo the same size everywhere */
+.site-logo img {
+  width: auto !important;
+  height: 50px !important; /* or whatever size you want */
+}
+
+/* Make the header layout responsive */
+.header-flex, .site-header, nav, .nav-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap; /* THIS is the magic */
+  gap: 10px;
+}
+
+/* On phones, stack the header elements */
+@media (max-width: 700px) {
+  .header-flex, .site-header, nav, .nav-container {
+    flex-direction: column;
+    text-align: center;
+  }
+}

@@ -32,10 +32,13 @@
 {{ partial "head_highlightjs" . }}
 <link rel="stylesheet" href="{{ "css/fonts.css" | relURL }}" media="all">
 <link rel="stylesheet" href="{{ "css/main.css" | relURL }}" media="all">
+
 {{ range .Site.Params.customCSS }}
 <link rel="stylesheet" href="{{ . | relURL }}">
 {{ end }}
+
+<link rel="stylesheet" href="{{ "css/custom.css" | relURL }}">
+
 {{ partial "head_custom" . }}
 
-<link rel="stylesheet" href="/css/responsive.css">
 
