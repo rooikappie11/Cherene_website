@@ -2,9 +2,12 @@
 title: ""
 ---
 
-<div style="background-color: #FFF4EC; padding: 10px; border-radius: 5px; margin-top: 0px; margin-left: -3cm; margin-right: -3cm;">
+<div class="peach-block"
+     style="background-color: #FFF4EC; padding: 10px; border-radius: 5px; margin-top: 0px; margin-left: -3cm; margin-right: -3cm;">
 
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 5px;">
+  <div class="peach-flex"
+     style="display: flex; align-items: center; justify-content: space-between; gap: 5px;">
+
 <!-- LEFT SIDE -->
   <div style="flex: 1;">
  <!--<h1 style="margin-top: 0; margin-bottom: 5px; color: #004f52; font-size: 35px; font-weight: 700;">

@@ -5,3 +5,25 @@
   width: 22px !important;
   height: 22px !important;
 }
+
+/* Make the peach block responsive on phones */
+@media (max-width: 700px) {
+  .peach-block {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    padding: 15px !important;
+  }
+
+  /* Stack the text and slideshow vertically on phones */
+  .peach-flex {
+    flex-direction: column !important;
+    text-align: center;
+  }
+
+  /* Center the slideshow on phones */
+  .peach-flex .slideshow {
+    margin: 0 auto;
+    width: 90% !important;
+    height: auto !important;
+  }
+}
