@@ -23,4 +23,4 @@ March 2019
 
 <!-- ### Project Articles
 [📄 OpenQuaternary](https://openquaternary.com/articles/10.5334/oq.77)
-[📄Leakey Foundation](https://leakeyfoundation.org/2015from-the-field-benjamin-collins/)-->
+[📄Leakey Foundation](https://leakeyfoundation.org/2015from-the-field-benjamin-collins/)--> 

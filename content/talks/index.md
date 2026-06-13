@@ -10,7 +10,7 @@ date: "2026-06-10"
     <li>- <a href="#oral-presentations--talks">Oral Presentations & Talks</a></li>
     <li>- <a href="#poster-presentations">Poster Presentations</a></li>
     <li>- <a href="#interviews">Interviews</a></li>
-    <!---<li>- <a href="#online-workshops">Online Workshops</a></li>--->
+    <li>- <a href="#online-workshops">Online Workshops</a></li>
   </ul>
 </div>
 
@@ -18,11 +18,14 @@ date: "2026-06-10"
 
 <div style="line-height: 1.5; margin-top: 8px;">
 
+- [**Making your research matter: policy and practice engagement for doctoral researchers**](https://www.ljmu.ac.uk/staff/students-at-the-heart/2026-conference/programme)  
+  *LJMU Students at the Heart Conference, 16-17 June 2026*
+  
 - **Eye in the Sky: Drones on the trail of the missing**  
   *FameLab UK Final, 5 June 2026*
   
 - **[Computer vision for locating clandestine burial sites using UAV-image data](./computer-vision-and-drones/)** 
-  *School of Pharmacy and Biomolecular Science Postgraduate Research Day. Liverpool, UK. 28 May 2026* 
+  *School of Pharmacy and Biomolecular Science Postgraduate Research Day. Liverpool, UK. 28 May 2026* [Programme](/talks/pgrexpress.pdf) 
   
 - **[An Eye for Detail: Finessing my FameLab UK talk on finding forensic graves](./talks/an-eye-for-detail/)**  
   *LJMU Doctoral Academy PGR Festival, 19 May 2026.*
@@ -39,8 +42,8 @@ date: "2026-06-10"
 - **[Justice from the ground up](./talks/justice-from-the-ground-up/)**  
   *LJMU Research Knowledge Exchange Conference, 15 December 2025*
 
-- **[More or less?](./talks/more-or-less/)**  
-  *School of Pharmacy & Biomolecular Science Research Day, 30 June 2025 (Winner).*
+- **[More or less? A mini study comparing soil and forensic DNA extraction kits using variable soil inputs](./talks/more-or-less/)**  
+  *School of Pharmacy & Biomolecular Science Research Day, 30 June 2025 (Winner).*[Programme](/talks/pgrbazaar.pdf) 
 
 - **[Student research excellence: something to ASPIRE to](./talks/aspire/)**  
   *PGR Research Day, 30 June 2025*
