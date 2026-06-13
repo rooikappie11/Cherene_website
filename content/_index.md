@@ -9,11 +9,10 @@ title: ""
      style="display: flex; align-items: center; justify-content: space-between; gap: 5px;">
 
 <!-- LEFT SIDE -->
-  <div style="flex: 1;">
- <!--<h1 style="margin-top: 0; margin-bottom: 5px; color: #004f52; font-size: 35px; font-weight: 700;">
+  <!--<h1 style="margin-top: 0; margin-bottom: 5px; color: #004f52; font-size: 35px; font-weight: 700;">
         Cherene de Bruyn
   </h1> -->
-  
+  <div style="flex: 1;">
   <h2 style="margin-top: 0; color: #004f52;">
        <em>The Grave Scientist</em>  </h2>
   <h4 style="font-weight: normal;">
@@ -41,7 +40,6 @@ title: ""
   <a href="https://profiles.ljmu.ac.uk/19117-cherene-de-bruyn" target="_blank">
         <img src="/images/ljmu.png" style="width: 32px; margin: 0 10px;">
   </a>
-
 
   </div>
 
@@ -97,10 +95,9 @@ title: ""
 
 </div>
 
-<h2 style="text-align: center;">My Journey</h2>
-
 <!-- FULL-WIDTH CAREER IMAGE -->
-<div style="
+<!--<h2 style="text-align: center;">My Journey</h2>-->
+<!--<div style="
   position: relative;
   left: 50%;
   right: 50%;
@@ -112,6 +109,37 @@ title: ""
   <img src="/images/career.png"
        alt="Cherene de Bruyn career path"
        style="width: 100%; height: auto; max-width: 1000px;">
+</div>-->
+
+<!-- BruynChild Substack-->
+<h2 class="substack-title" style="text-align: center;">Latest post from my Substack</h2>
+
+<div style="text-align: center; margin-bottom: 1px;">
+  <img src="/images/bruynchildlogo.png" alt="BruynChild Logo" style="width: 200px; height: auto;">
 </div>
+
+<div id="latest-posts" class="row">
+    Loading latest posts...
+</div>
+
+<div class="substack-buttons" style="text-align:center; margin-top:10px; display:flex; flex-direction:column; gap:12px; align-items:center;">
+
+  <!-- Button 1 -->
+  <a href="https://cherenedebruyn.substack.com"
+     target="_blank"
+     class="substack-more-btn">
+     Read more on Substack
+  </a>
+
+  <!-- Button 2 -->
+  <a href="https://cherenedebruyn.substack.com/subscribe"
+     target="_blank"
+     style="background:#004f52; color:white; padding:12px 20px; border-radius:6px; text-decoration:none; font-weight:600;">
+     Subscribe to BruynChild
+  </a>
+
+</div>
+
+
 
 

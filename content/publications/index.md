@@ -16,15 +16,16 @@ date: "2026-06-10"
 
 <!-- Journal Article 1 -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 25px;">
-  <img src="/images/frontiers.png" style="width: 160px; height: 220px; object-fit: cover; margin-right: 20px;">
+  <img src="/images/diggingstick.png" style="width: 160px; height: 220px; object-fit: cover; margin-right: 20px;">
   <div>
-    <strong>de Bruyn, C., Scott, K., Panter, H., Bezombes, F. & Ralebitso-Senior, T.K. (2025).</strong><br>
-    <a href="https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2025.1684366/full" target="_blank">
-      Advancing time-since-interval estimation for clandestine graves: From traditional approaches to forensic ecogenomics using massively parallel sequencing.
+    <strong>de Bruyn, C. (2014).</strong><br>
+    <a href="https://www.researchgate.net/publication/341233008_An_archaeological_investigation_in_the_Masebe_Nature_Reserve_Limpopo_Province" target="_blank">
+      An archaeological investigation in the Masebe Nature Reserve, Limpopo Province.
     </a><br>
-    <em>Frontiers in Microbiology, 16</em>, 1684366.
+    <em>The Digging Stick, 31</em>(1), 9–11.
   </div>
 </div>
+
 
 <!-- Journal Article 2 -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 25px;">
@@ -80,10 +81,12 @@ date: "2026-06-10"
   <div>
     <strong>de Bruyn, C. (2014).</strong><br>
     <a href="https://www.researchgate.net/publication/341233008_An_archaeological_investigation_in_the_Masebe_Nature_Reserve_Limpopo_Province" target="_blank">
-    An archaeological investigation in the Masebe Nature Reserve, Limpopo Province.<br>
+      An archaeological investigation in the Masebe Nature Reserve, Limpopo Province.
+    </a><br>
     <em>The Digging Stick, 31</em>(1), 9–11.
   </div>
 </div>
+
 
 ## Online Science Communication Articles
 

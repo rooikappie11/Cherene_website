@@ -25,7 +25,7 @@ title: "Curriculum Vitae"
 <br>
 <!-- PDF DOWNLOAD BUTTON -->
 <div style="text-align: left; margin-bottom: 20px;">
-  <a href="/cv/cdbjune2026_CV.pdf" 
+  <a href="/cv/cdbcv_2026.pdf" 
      target="_blank" 
      rel="noopener"
      style="background-color:#004f52; color:white; padding:10px 20px; border-radius:6px; text-decoration:none; font-weight:600;">

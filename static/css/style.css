@@ -28,6 +28,23 @@ nav a:hover {
   color: #cfae4f !important;
 }
 
+/* NAV ITEM SPACING */
+nav ul {
+  display: flex !important;
+  gap: 1px !important; /* adjust this number for more/less spacing */
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+nav ul li {
+  list-style: none !important;
+}
+
+nav ul li a {
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
 /* Keep logo the same size everywhere */
 .site-logo img {
   width: auto !important;

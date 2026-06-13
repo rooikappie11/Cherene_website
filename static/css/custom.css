@@ -1,12 +1,11 @@
-
-
+/* === FOOTER LOGO FIX === */
 .footer-logo img,
 .footer-links-kudos img {
   width: 22px !important;
   height: 22px !important;
 }
 
-/* Make the peach block responsive on phones */
+/* === PEACH BLOCK MOBILE FIX === */
 @media (max-width: 700px) {
   .peach-block {
     margin-left: 0 !important;
@@ -14,16 +13,163 @@
     padding: 15px !important;
   }
 
-  /* Stack the text and slideshow vertically on phones */
   .peach-flex {
     flex-direction: column !important;
     text-align: center;
   }
 
-  /* Center the slideshow on phones */
   .peach-flex .slideshow {
     margin: 0 auto;
     width: 90% !important;
-    height: auto !important;
+    height: 420px !important;
   }
 }
+
+/* === SUBSTACK GRID LAYOUT === */
+#latest-posts {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+/* Desktop: 3 columns */
+#latest-posts .post {
+  flex: 1 1 calc(33.33% - 20px);
+  max-width: 350px;
+  position: relative;
+  overflow: hidden;
+  border-radius: 8px;
+}
+
+/* Tablet: 2 columns */
+@media (max-width: 900px) {
+  #latest-posts .post {
+    flex: 1 1 calc(50% - 20px);
+  }
+}
+
+/* Phone: 1 column */
+@media (max-width: 600px) {
+  #latest-posts .post {
+    flex: 1 1 100%;
+  }
+}
+
+/* === IMAGE + OVERLAY === */
+.post_image_wrapper {
+  height: 180px;
+  overflow: hidden;
+}
+
+.post_image_wrapper img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  filter: brightness(40%);
+  transition: 0.3s;
+}
+
+.link_with_image:hover img {
+  filter: brightness(60%);
+}
+
+/* === TEXT OVERLAY === */
+.post_meta_data {
+  position: absolute;
+  bottom: 0;
+  padding: 20px;
+  width: 100%;
+  color: white;
+}
+
+/* === TITLES === */
+.post h3 {
+  margin: 0;
+  font-size: 15px;
+  line-height: 1.2;
+  color: white;
+}
+
+/* === SINGLE GREEN BUTTON BELOW POSTS === */
+.substack-more-wrapper {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.substack-more-btn {
+  background-color: #004f52 !important; /* EXACT same dark green as nav bar */
+  color: white !important;
+  padding: 10px 20px;
+  border-radius: 6px;
+  font-size: 16px;
+  font-weight: 600;
+  display: inline-block;
+  transition: 0.2s;
+  text-decoration: none; /* prevents underline */
+}
+
+.substack-more-btn:hover {
+  background-color: #006b6f !important; /* lighter green on hover */
+  color: white !important;
+}
+
+.substack-title {
+  margin-bottom: 5px; /* adjust this number to control spacing */
+}
+
+
+<style>
+.slideshow {
+  width: 100%;              /* fills the peach block */
+  aspect-ratio: 4 / 5;      /* keeps a nice portrait shape */
+  position: relative;
+  overflow: hidden;
+  margin: 0 auto;
+}
+
+.slide {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;        /* images scale dynamically */
+  opacity: 0;
+  animation: fade 15s infinite ease-in-out;
+}
+
+.slide:nth-child(1) { animation-delay: 0s; }
+.slide:nth-child(2) { animation-delay: 3s; }
+.slide:nth-child(3) { animation-delay: 6s; }
+.slide:nth-child(4) { animation-delay: 9s; }
+.slide:nth-child(5) { animation-delay: 12s; }
+
+@keyframes fade {
+  0% { opacity: 0; }
+  8% { opacity: 1; }
+  25% { opacity: 1; }
+  33% { opacity: 0; }
+  100% { opacity: 0; }
+}
+
+/* MOBILE + TABLET */
+@media (max-width: 900px) {
+  .peach-flex {
+    flex-direction: column !important;
+    align-items: center !important;
+  }
+
+  .slideshow {
+    aspect-ratio: 3 / 4;    /* better shape for narrow screens */
+    width: 100%;
+    margin-top: 20px;
+  }
+
+  .peach-block {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+}
+</style>
+

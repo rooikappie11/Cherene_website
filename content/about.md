@@ -10,13 +10,34 @@ title: About
 </div>
 
 
-I am a South African–born archaeologist currently completing my PhD at Liverpool John Moores University. My doctoral research focuses on clandestine grave location and the scientific traces people leave behind. My work sits at the intersection of archaeology, forensic science, soil microbiology and UAV‑based remote sensing, and I am motivated by the challenge of making hidden stories visible in ethical, evidence‑based ways. My research examines how these methods change over time and how they can support real‑world forensic practice .
+I am a South African–born archaeologist and Chevening Scholar alumna who is currently completing my PhD at Liverpool John Moores University.  
 
-Over the past fourteen years, I have worked across heritage, academic and forensic settings. This includes excavating and relocating graves, leading field teams and contributing to interdisciplinary approaches that support heritage management. I have worked as an archaeologist in South Africa and the UK, and have gained experience through internships and volunteer work on archaeological excavations. My skills include excavating and analysing archaeological material such as pottery and human skeletal remains as well as technical writing. Teaching and mentoring are also central to my work, and I value helping students and early‑career researchers develop confidence, clarity and scientific curiosity.   
+My doctoral research focuses on clandestine grave location, specifically by optimising two complementary approaches to locate graves using UAV based remote sensing and the grave soil microbiome. My work sits at the intersection of _**archaeology, geoforensics**_ and _**forensic ecology**_. Drawing on my own experience and several collaborations, the aim is to ensure these approaches can support real world forensic practice.
 
-At the core of my approach is the belief that graves are places of connection between people, landscapes and the stories we inherit. My aim is to understand those connections with scientific rigour and human care.  I have particular interests in grave science, forensic taphonomy, Egyptian archaeology and burial archaeology. I am also a Chevening Scholar alumna.  
+Over the past fourteen years, I have worked across commercial and academic settings as an archaeologist in both South Africa and England. I am an Accredited CRM Archaeologist with the Association of Southern African Professional Archaeologists. My field experience includes archaeological surveys, excavation (of Stone age, Iron Age and Historical Period sites), Grave Relocation and Stakeholder engagement, as well as leading field teams and contributing to interdisciplinary approaches that support heritage management.  
 
-Alongside my research, I write about PhD life and productivity on my Substack, [BruynChild](https://cherenedebruyn.substack.com/?utm_campaign=profile_chips) (pronounced brainchild) as well as for [Research Hive](https://research-hive.com/). 
+My skill set includes the excavation and analysis of archaeological material (such as pottery), bioarchaeology, soil sampling, eDNA extraction and molecular analysis.  
+
+Teaching and mentoring are central to my work, and I value helping students and early career researchers develop confidence, clarity and scientific curiosity. I am an Associate Fellow of Advance HE (AFHEA) and SEDA Recognised for Supporting Learning. I have also led and supported student seminars and laboratory practicals at the University of Pretoria (South Africa) and at Liverpool John Moores University (England).    
+
+Alongside my [technical writing and academic research](../publications/), I write about PhD life and productivity on my Substack [BruynChild](https://cherenedebruyn.substack.com/?utm_campaign=profile_chips) (pronounced brainchild). I also contribute to [The Observatory Human Birdges](https://observatory.wiki/Cherene_de_Bruyn) and the Science Communication blog [Research Hive](https://research-hive.com/).   
+
+My research interests are grave science, forensic taphonomy, Egyptian archaeology and burial archaeology
+
+<!-- FULL-WIDTH CAREER IMAGE -->
+<div style="
+  position: relative;
+  left: 45%;
+  right: 45%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  width: 100vw;
+  text-align: center;
+">
+  <img src="/images/career.png"
+       alt="Cherene de Bruyn career path"
+       style="width: 100%; height: auto; max-width: 1000px;">
+</div>
 
 <div style="text-align: center;">
 <img src="/images/IMG_20200715_090038.jpg" style="width:200px; margin-right:20px;">

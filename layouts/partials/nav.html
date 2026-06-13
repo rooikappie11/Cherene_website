@@ -1,17 +1,25 @@
-<nav class="nav">
-  <a href="{{ "/" | relURL }}" class="nav-logo" style="display:flex; align-items:center; gap:0px; text-decoration:none;">
+<nav class="nav"
+     style="display:flex; align-items:center; justify-content:space-between; gap:20px;">
+
+  <!-- LEFT: logo + name -->
+  <a href="{{ "/" | relURL }}"
+     class="nav-logo"
+     style="display:flex; align-items:center; gap:10px; text-decoration:none;">
+
     <img src="{{ print "images/" .Site.Params.logo.url | relURL }}"
          width="{{ .Site.Params.logo.width }}"
          height="{{ .Site.Params.logo.height }}"
          alt="{{ .Site.Params.logo.alt }}">
 
     <span class="nav-name"
-          style="font-size:25px; font-weight:600; color:#ffffff; white-space:nowrap;">
+          style="font-size:23px; font-weight:600; color:#ffffff; white-space:nowrap;">
       Cherene de Bruyn, AFHEA
     </span>
   </a>
 
-  <ul class="nav-links">
+  <!-- RIGHT: nav links -->
+  <ul class="nav-links"
+      style="display:flex; gap:16px; list-style:none; margin:0; padding:0;">
     {{ range .Site.Menus.main }}
       <li>
         {{ if eq .Name "Substack" }}
@@ -22,4 +30,5 @@
       </li>
     {{ end }}
   </ul>
+
 </nav>
