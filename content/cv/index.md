@@ -210,7 +210,7 @@ _Recipients_: C. de Bruyn
 _ **Bacterial 16S metabarcoding**, NERC Environmental Omics Facility (NEOF) Online Workshop _(11 February 2025)_
 
 ## 2024
-_ **Phylogenomics workshop**, NERC Environmental Omics Facility (NEOF) Online Workshop _(12&14 November 2024)_
+- **Phylogenomics workshop**, NERC Environmental Omics Facility (NEOF) Online Workshop _(12&14 November 2024)_
 - **Introduction to sequencing data and quality control workshop**, NERC Environmental Omics Facility (NEOF) Online Workshop _(29 October 2024)_
 - **UKRIO Introduction to Research Integrity**, UKRIO _(23 October 2024)_
 - **Introduction to Command Line bioinformatics**, NERC Environmental Omics Facility (NEOF) Online Workshop _(8 October 2024)_
