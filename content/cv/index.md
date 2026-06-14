@@ -207,7 +207,7 @@ _Recipients_: C. de Bruyn
 - **LEAP Leadership Program 2025**, oikos International & Principles of Responsible Management Education _(April–September 2025)_
 - **Certified Peer Reviewer Course**, Elsevier Researcher Academy
 - **Leading with Character**, The Oxford Character Project, University of Oxford
-_ **Bacterial 16S metabarcoding**, NERC Environmental Omics Facility (NEOF) Online Workshop _(11 February 2025)_
+- **Bacterial 16S metabarcoding**, NERC Environmental Omics Facility (NEOF) Online Workshop _(11 February 2025)_
 
 ## 2024
 - **Phylogenomics workshop**, NERC Environmental Omics Facility (NEOF) Online Workshop _(12&14 November 2024)_
