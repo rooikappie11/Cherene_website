@@ -22,6 +22,7 @@ title: ""
   background: transparent !important;
 }
 
+
 /* Translucent scrolling block */
 .trans-block {
   background: rgba(255, 255, 255, 0.7);
