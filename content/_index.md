@@ -57,6 +57,82 @@
   }
 }
 
+/* PUBLICATION TILE GRID */
+.pub-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  justify-content: center;
+  margin-top: px;
+}
+
+/* TILE */
+.pub-tile {
+  background: rgba(255, 255, 255, 0.85);
+  padding: 0;
+  border-radius: 10px;
+  width: 300px;
+  text-align: center;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+  overflow: hidden;
+  transition: transform 0.2s ease;
+  font-size: 16px; /* match body text */
+}
+
+.pub-tile:hover {
+  transform: translateY(-4px);
+}
+
+/* COVER IMAGE */
+.pub-cover {
+  width: 100%;
+  height: 160px;
+  object-fit: cover;
+}
+
+/* PUBLICATION NAME (outside white tile) */
+.pub-source {
+  text-align: center;
+  font-weight: 700;
+  color: #004f52;
+  margin-bottom: 8px;
+  font-size: 22px; /* match body text */
+}
+
+/* ARTICLE TITLE */
+.pub-title {
+  padding: 12px;
+  color: #004f52;
+  font-weight: 500;
+  font-size: 15px; /* match body text */
+  text-decoration: none;
+  display: block;
+}
+
+/* MOBILE */
+@media (max-width: 700px) {
+  .pub-tile {
+    width: 100%;
+  }
+}
+
+/* GLOBAL FONT OVERRIDE — USE HELVETICA ONLY */
+body,
+body * {
+  font-family: Helvetica !important;
+}
+
+.section-heading {
+  text-align: center;
+  margin-top: 40px;
+  margin-bottom: 10px;
+  color: #444444;
+  font-family: Helvetica !important;
+  font-size: 24px;
+  font-weight: 600;
+}
+
+
 </style>
 
 <div class="page-background">
@@ -75,7 +151,7 @@
   <strong>Current Project: Grave Science</strong>
 </h3>
 
-<h3 style="font-weight: normal; margin-top: 0;">
+<h3 style="font-weight: normal; font-size:18px; margin-top: 0;">
   I am working on clandestine grave location using UAV-based remote sensing and soil microbiomes
 </h3>
 
@@ -87,11 +163,11 @@
   <em>c.debruyn@2024.ljmu.ac.uk</em>  
 </h4>
 
-<h3 style="font-weight: normal; margin-bottom: 0; margin-top: 20px;">
+<h3 style="font-weight: normal; margin-bottom: 0; margin-top: 10px;">
   <strong>Research Interests</strong>
 </h3>
 
-<p style="margin-top: 0;">
+<p style="font-weight: normal;font-size:18px;font-family: Helvetica; margin-top: 0;">
   Burial archaeology, post‑mortem body treatment, taphonomy, and the ecological and material signatures human activity leaves on the landscape.
   I study these through soil microbiomes (for forensic contexts) and remote‑sensing data from GIS, GPR, and UAV‑based imaging.
 </p>
@@ -123,9 +199,10 @@
   </a>
 </div>
 
-<h2 class="substack-title" style="text-align: center; margin-top: 40px;">
+<h2 class="section-heading">
   Latest post from my Substack
 </h2>
+
 
 <div style="text-align: center; margin-bottom: 10px;">
   <img src="/images/bruynchildlogo.png" alt="BruynChild Logo"
@@ -139,22 +216,48 @@
 <div class="substack-buttons"
      style="text-align:center; margin-top:20px; display:flex; flex-direction:column; gap:12px; align-items:center;">
 
-  <a href="https://cherenedebruyn.substack.com"
-     target="_blank"
-     class="substack-more-btn"
-     style="background:#004f52; color:white; padding:12px 20px; border-radius:6px; text-decoration:none; font-weight:600;">
-     Read more on Substack
-  </a>
-
   <a href="https://cherenedebruyn.substack.com/subscribe"
      target="_blank"
      style="background:#004f52; color:white; padding:12px 20px; border-radius:6px; text-decoration:none; font-weight:600;">
      Subscribe to BruynChild
   </a>
+</div>
+
+<h2 class="section-heading">
+  More of my writing
+</h2>
+
+
+<div class="pub-grid">
+
+  <!-- TILE 1: Research Hive -->
+  <div>
+    <div class="pub-source">Research Hive</div>
+    <div class="pub-tile">
+      <img src="/images/rhafhea.png" class="pub-cover">
+      <a href="https://research-hive.com/2026/04/02/why-teaching-deserves-thought-the-case-for-associate-fellow-of-the-higher-education-academy-afhea/"
+         target="_blank"
+         class="pub-title">
+        Why Teaching Deserves Thought:<br>The Case for AFHEA
+      </a>
+    </div>
+  </div>
+
+  <!-- TILE 2: Human Bridges -->
+  <div>
+    <div class="pub-source">Human Bridges</div>
+    <div class="pub-tile">
+      <img src="/images/humanbridges2.png" class="pub-cover">
+      <a href="https://observatory.wiki/Parameters_of_Animal_Self-Medication_Behavior"
+         target="_blank"
+         class="pub-title">
+        Parameters of Animal Self‑Medication Behaviour
+      </a>
+    </div>
+  </div>
 
 </div>
 
 </div> <!-- end trans-block -->
 
 </div> <!-- end page-background -->
-
