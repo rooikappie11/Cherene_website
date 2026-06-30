@@ -13,16 +13,24 @@ title: ""
         Cherene de Bruyn
   </h1> -->
   <div style="flex: 1;">
-  <h2 style="margin-top: 0; color: #004f52;">
-       <em>The Grave Scientist</em>  </h2>
-  <h4 style="font-weight: normal;">
+  <h2 style="margin-top: 0; margin-bottom: 0; color: #004f52;">
+  <em>Archaeologist</em>
+</h2>
+
+<h3 style="font-weight: normal; margin-top: 0; margin-bottom: 0;">
+  <strong>Current Project: Grave Science</strong>
+</h3>
+
+<h3 style="font-weight: normal; margin-top: 0;">
+  I am working on clandestine grave location using UAV-based remote sensing and soil microbiomes
+</h3>
+
+ <h4 style="font-weight: normal;margin-bottom: 0;">
         Liverpool John Moores University  
+  </h4>
+  <h4 style="font-weight: normal;margin-top: 0;">
         <em>  c.debruyn@2024.ljmu.ac.uk</em>  
   </h4>
-
-  <h3 style="font-weight: normal;">
-        I am a forensic archaeologist working on clandestine grave location using UAV-based remote sensing and soil microbiomes
-  </h3>
 
 <!-- SOCIAL ICONS -->
   <a href="https://www.linkedin.com/in/cherenedebruyn/" target="_blank">
@@ -41,6 +49,13 @@ title: ""
         <img src="/images/ljmu.png" style="width: 32px; margin: 0 10px;">
   </a>
 
+<h3 style="font-weight: normal; margin-bottom: 0;">
+  <strong>Research Interests</strong>
+</h3>
+<p style="margin-top: 0;">
+  Burial archaeology, post‑mortem body treatment, taphonomy, and the ecological and material signatures human activity leaves on the landscape.
+  I study these through soil microbiomes (primarily for forensic contexts) and remote‑sensing data from GIS, GPR, and UAV‑based imaging.
+</p>
   </div>
 
 <!-- RIGHT SIDE -->
@@ -49,7 +64,7 @@ title: ""
   <img class="slide" src="/images/2018.jpeg">
   <img class="slide" src="/images/image2.png">
   <img class="slide" src="/images/image3.jpg">
-  <img class="slide" src="/images/image4.jpg">
+  <img class="slide" src="/images/cdbfamelab.jpg">
   <img class="slide" src="/images/image5.jpg">
 </div>
 
