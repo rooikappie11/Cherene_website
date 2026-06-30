@@ -1,9 +1,6 @@
----
-title: ""
----
-
-<!-- FULL-PAGE BACKGROUND -->
+<!-- FULL-PAGE BACKGROUND + RESPONSIVE LAYOUT -->
 <style>
+
 .page-background {
   background-image: url("/images/websitebackground.png");
   background-size: cover;
@@ -17,11 +14,10 @@ title: ""
   padding-bottom: 40px;
 }
 
-/* Make Hugo Lithium content transparent */
+/* Remove Lithium white background */
 .content, .main {
   background: transparent !important;
 }
-
 
 /* Translucent scrolling block */
 .trans-block {
@@ -31,79 +27,102 @@ title: ""
   max-width: 1000px;
   margin: 0 auto;
 }
+
+/* RESPONSIVE TWO-COLUMN LAYOUT */
+.profile-flex {
+  display: flex;
+  gap: 30px;
+  align-items: flex-start;
+}
+
+.profile-image {
+  flex: 0 0 400px;
+}
+
+/* MOBILE + TABLET */
+@media (max-width: 900px) {
+
+  .profile-flex {
+    flex-direction: column !important;
+  }
+
+  .profile-image {
+    flex: 0 0 auto !important;
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+
+  .trans-block {
+    padding: 20px !important;
+  }
+}
+
 </style>
 
 <div class="page-background">
 
 <div class="trans-block">
 
-<!-- TWO COLUMN PROFILE HEADER -->
-<div style="display: flex; gap: 30px; align-items: flex-start;">
+<div class="profile-flex">
 
-  <!-- LEFT COLUMN -->
-  <div style="flex: 1;">
+<div style="flex: 1;">
 
-  <h2 style="margin-top: 0; margin-bottom: 0; color: #004f52;">
-     <em>Archaeologist</em>
-  </h2>
+<h2 style="margin-top: 0; margin-bottom: 0; color: #004f52;">
+  <em>Archaeologist</em>
+</h2>
 
-  <h3 style="font-weight: normal; margin-top: 0; margin-bottom: 0;">
-    <strong>Current Project: Grave Science</strong>
-  </h3>
+<h3 style="font-weight: normal; margin-top: 0; margin-bottom: 0;">
+  <strong>Current Project: Grave Science</strong>
+</h3>
 
-  <h3 style="font-weight: normal; margin-top: 0;">
-    I am working on clandestine grave location using UAV-based remote sensing and soil microbiomes
-  </h3>
+<h3 style="font-weight: normal; margin-top: 0;">
+  I am working on clandestine grave location using UAV-based remote sensing and soil microbiomes
+</h3>
 
-  <h4 style="font-weight: normal;margin-bottom: 0;">
-    Liverpool John Moores University  
-  </h4>
+<h4 style="font-weight: normal;margin-bottom: 0;">
+  Liverpool John Moores University  
+</h4>
 
-  <h4 style="font-weight: normal;margin-top: 0;">
-    <em>c.debruyn@2024.ljmu.ac.uk</em>  
-  </h4>
+<h4 style="font-weight: normal;margin-top: 0;">
+  <em>c.debruyn@2024.ljmu.ac.uk</em>  
+</h4>
 
-   <h3 style="font-weight: normal; margin-bottom: 0; margin-top: 20px;">
+<h3 style="font-weight: normal; margin-bottom: 0; margin-top: 20px;">
   <strong>Research Interests</strong>
 </h3>
 
 <p style="margin-top: 0;">
-    Burial archaeology, post‑mortem body treatment, taphonomy, and the ecological and material signatures human activity leaves on the landscape.
-    I study these through soil microbiomes (for forensic contexts) and remote‑sensing data from GIS, GPR, and UAV‑based imaging.
-  </p>
+  Burial archaeology, post‑mortem body treatment, taphonomy, and the ecological and material signatures human activity leaves on the landscape.
+  I study these through soil microbiomes (for forensic contexts) and remote‑sensing data from GIS, GPR, and UAV‑based imaging.
+</p>
 
-  </div>
+</div>
 
-  <!-- RIGHT COLUMN: PROFILE IMAGE -->
-  <div style="flex: 0 0 400px;">
-    <img src="/images/cdbfield1v1.jpg"
-         style="width: 100%; border-radius: 10px; object-fit: cover;">
-         
-  </div>
+<div class="profile-image">
+  <img src="/images/cdbfield1v1.jpg"
+       style="width: 100%; border-radius: 10px; object-fit: cover;">
+</div>
 
+</div> <!-- end profile-flex -->
 
-</div> <!-- end two-column header -->
-
-<!-- SOCIAL ICONS -->
-  <div style="margin-top: 10px;">
-    <a href="https://www.linkedin.com/in/cherenedebruyn/" target="_blank">
-       <img src="/images/LI-In-Bug.png" style="width: 32px; margin-right: 10px;">
-    </a>
+<div style="margin-top: 10px;">
+  <a href="https://www.linkedin.com/in/cherenedebruyn/" target="_blank">
+    <img src="/images/LI-In-Bug.png" style="width: 32px; margin-right: 10px;">
+  </a>
 
   <a href="https://orcid.org/0000-0002-2979-2289" target="_blank">
-      <img src="/images/ORCID_iD.svg.png" style="width: 32px; margin-right: 10px;">
-    </a>
+    <img src="/images/ORCID_iD.svg.png" style="width: 32px; margin-right: 10px;">
+  </a>
 
-   <a href="https://scholar.google.com/citations?user=lJ8DcqwAAAAJ&hl=en" target="_blank">
+  <a href="https://scholar.google.com/citations?user=lJ8DcqwAAAAJ&hl=en" target="_blank">
     <img src="/images/Google_Scholar_logo.svg.png" style="width: 32px; margin-right: 10px;">
   </a>
 
-   <a href="https://profiles.ljmu.ac.uk/19117-cherene-de-bruyn" target="_blank">
-     <img src="/images/ljmu.png" style="width: 32px; margin-right: 10px;">
+  <a href="https://profiles.ljmu.ac.uk/19117-cherene-de-bruyn" target="_blank">
+    <img src="/images/ljmu.png" style="width: 32px; margin-right: 10px;">
   </a>
-  </div>
+</div>
 
-<!-- SUBSTACK SECTION -->
 <h2 class="substack-title" style="text-align: center; margin-top: 40px;">
   Latest post from my Substack
 </h2>
@@ -138,3 +157,4 @@ title: ""
 </div> <!-- end trans-block -->
 
 </div> <!-- end page-background -->
+
