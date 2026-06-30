@@ -54,7 +54,7 @@ title: ""
 </h3>
 <p style="margin-top: 0;">
   Burial archaeology, post‑mortem body treatment, taphonomy, and the ecological and material signatures human activity leaves on the landscape.
-  I study these through soil microbiomes (primarily for forensic contexts) and remote‑sensing data from GIS, GPR, and UAV‑based imaging.
+  I study these through soil microbiomes (for forensic contexts) and remote‑sensing data from GIS, GPR, and UAV‑based imaging.
 </p>
   </div>
 
