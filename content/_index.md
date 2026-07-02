@@ -234,11 +234,11 @@ body * {
   <div>
     <div class="pub-source">Research Hive</div>
     <div class="pub-tile">
-      <img src="/images/rhafhea.png" class="pub-cover">
-      <a href="https://research-hive.com/2026/04/02/why-teaching-deserves-thought-the-case-for-associate-fellow-of-the-higher-education-academy-afhea/"
+      <img src="/images/kusozubody.png" class="pub-cover">
+      <a href="https://research-hive.com/2026/07/02/the-buried-truth-about-body-farms-and-scientific-lessons-from-decay/"
          target="_blank"
          class="pub-title">
-        Why Teaching Deserves Thought:<br>The Case for AFHEA
+        The buried truth about body farms and scientific lessons from decay
       </a>
     </div>
   </div>
