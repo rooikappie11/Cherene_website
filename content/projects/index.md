@@ -67,5 +67,27 @@ date: "2026-06-10"
 </ul>
 
 
-
 ## Outreach
+<ul style="list-style: none; padding-left: 0;">
+
+  <li style="margin-bottom: 20px;">
+    <img src="/images/trowel.png" style="width:24px; vertical-align: middle; margin-right:10px;">
+    <a href="/projects/outreach/pacs_od/" style="color:#004f52; font-size:20px; font-weight:600;">
+      Pretoria Archaeology Club for Schools Open Day
+    </a>
+  </li>
+
+  <li style="margin-bottom: 20px;">
+    <img src="/images/trowel.png" style="width:24px; vertical-align: middle; margin-right:10px;">
+    <a href="/projects/outreach/pacs_ao/" style="color:#004f52; font-size:20px; font-weight:600;">
+      Pretoria Archaeology Club for Schools Archaeology Olympics
+    </a>
+  </li>
+
+</ul>
+
+<style>
+.archive {
+  display: none !important;
+}
+</style>
