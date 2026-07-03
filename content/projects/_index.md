@@ -6,10 +6,9 @@ title: "Projects"
 
 <div style="font-size: 0.85rem; line-height: 1.3; margin-top: 0;">
   <ul style="list-style-type: none; padding-left: 0; margin-top: 0;">
-    <li>- <a href="#research">Research</a></li>
     <li>- <a href="#fieldwork">Fieldwork</a></li>
     <li>- <a href="#outreach">Outreach</a></li>
-  </ul>
+      </ul>
 </div>
 
 ## Research
