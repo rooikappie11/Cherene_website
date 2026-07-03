@@ -7,7 +7,7 @@ date: "2026-06-10"
 <div style="font-size: 0.85rem; line-height: 1.3; margin-top: 0;">
   <ul style="list-style-type: none; padding-left: 0; margin-top: 0;">
     <li>- <a href="#journal-publications">Journal Publications</a></li>
-    <li>- <a href="#online-science-communication-articles">Online Science Communication Articles</a></li>
+    <li>- <a href="#online-science-communication-articles">Online Science Communication Articles & Blogs</a></li>
     <li>- <a href="#technical-reports">Technical Reports</a></li>
   </ul>
 </div>
@@ -88,7 +88,7 @@ date: "2026-06-10"
 </div>
 
 
-## Online Science Communication Articles
+## Online Science Communication Articles & Blogs
 
 **de Bruyn, C. (July 2026).**  
 *The buried truth about body farms and scientific lessons from decay.* Research Hive. [Read Article](https://research-hive.com/2026/07/02/the-buried-truth-about-body-farms-and-scientific-lessons-from-decay/)
