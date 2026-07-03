@@ -60,7 +60,7 @@ date: "2026-06-10"
   <li style="margin-bottom: 20px;">
     <img src="/images/trowel.png" style="width:24px; vertical-align: middle; margin-right:10px;">
     <a href="/fieldwork/sudwala/" style="color:#004f52; font-size:20px; font-weight:600;">
-      AArchaeology Field School in Sudwala (2010)
+      Archaeology Field School in Sudwala (2010)
     </a>
   </li>
 
