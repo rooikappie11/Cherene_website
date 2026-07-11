@@ -25,28 +25,6 @@
   }
 }
 
-
-.nav {
-  display: flex !important;
-  align-items: center !important;
-  justify-content: space-between !important;
-  padding-left: 0 !important;
-}
-
-.nav-left {
-  display: flex !important;
-  align-items: center !important;
-  margin-left: 0 !important;
-  padding-left: 0 !important;
-}
-
-.nav-name-img {
-  height: 32px;
-  margin-left: 0 !important;
-  padding-left: 0 !important;
-}
-
-
 /* === SUBSTACK GRID LAYOUT === */
 #latest-posts {
   display: flex;
