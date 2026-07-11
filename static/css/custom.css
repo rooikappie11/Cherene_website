@@ -25,6 +25,28 @@
   }
 }
 
+
+.nav {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: space-between !important;
+  padding-left: 0 !important;
+}
+
+.nav-left {
+  display: flex !important;
+  align-items: center !important;
+  margin-left: 0 !important;
+  padding-left: 0 !important;
+}
+
+.nav-name-img {
+  height: 32px;
+  margin-left: 0 !important;
+  padding-left: 0 !important;
+}
+
+
 /* === SUBSTACK GRID LAYOUT === */
 #latest-posts {
   display: flex;
@@ -99,7 +121,7 @@
 }
 
 .substack-more-btn {
-  background-color: #004f52 !important; /* EXACT same dark green as nav bar */
+  background-color: #004f52 !important;
   color: white !important;
   padding: 10px 20px;
   border-radius: 6px;
@@ -107,23 +129,22 @@
   font-weight: 600;
   display: inline-block;
   transition: 0.2s;
-  text-decoration: none; /* prevents underline */
+  text-decoration: none;
 }
 
 .substack-more-btn:hover {
-  background-color: #006b6f !important; /* lighter green on hover */
+  background-color: #006b6f !important;
   color: white !important;
 }
 
 .substack-title {
-  margin-bottom: 5px; /* adjust this number to control spacing */
+  margin-bottom: 5px;
 }
 
-
-<style>
+/* === SLIDESHOW === */
 .slideshow {
-  width: 100%;              /* fills the peach block */
-  aspect-ratio: 4 / 5;      /* keeps a nice portrait shape */
+  width: 100%;
+  aspect-ratio: 4 / 5;
   position: relative;
   overflow: hidden;
   margin: 0 auto;
@@ -134,7 +155,7 @@
   inset: 0;
   width: 100%;
   height: 100%;
-  object-fit: cover;        /* images scale dynamically */
+  object-fit: cover;
   opacity: 0;
   animation: fade 15s infinite ease-in-out;
 }
@@ -161,7 +182,7 @@
   }
 
   .slideshow {
-    aspect-ratio: 3 / 4;    /* better shape for narrow screens */
+    aspect-ratio: 3 / 4;
     width: 100%;
     margin-top: 20px;
   }
@@ -171,5 +192,16 @@
     margin-right: 0 !important;
   }
 }
-</style>
+/* === SATISFY NAME FONT === */
+.nav-name {
+  font-family: 'Satisfy', cursive !important;
+  font-size: 26px !important;
+  font-weight: 600 !important;
+  color: #ffffff !important;
+  white-space: nowrap !important;
+}
+
+
+
+
 

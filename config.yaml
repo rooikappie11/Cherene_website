@@ -30,13 +30,7 @@ params:
   MathJaxCDN: "//cdnjs.cloudflare.com/ajax/libs"
   MathJaxVersion: "2.7.5"
   favicon: "favicon.ico"
-  logo:
-    url: "CdBlogo2.png"
-    width: 50
-    height: 50
-    alt: "Logo"
-  
-  
+ 
 security:
   allowContent: ['.*']
 

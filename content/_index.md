@@ -1,6 +1,28 @@
 <!-- FULL-PAGE BACKGROUND + RESPONSIVE LAYOUT -->
 <style>
 
+/* Remove theme-injected spacing under the nav bar */
+.main,
+.content,
+.page,
+.wrapper {
+  padding-top: 0 !important;
+  margin-top: 0 !important;
+}
+
+/* Lithium/Apéro header spacing */
+.site-header {
+  margin-bottom: 0 !important;
+  padding-bottom: 0 !important;
+}
+
+/* Navigation bar spacing */
+nav.navbar,
+.navbar {
+  margin-bottom: 0 !important;
+  padding-bottom: 0 !important;
+}
+
 .page-background {
   background-image: url("/images/websitebackground.png");
   background-size: cover;
@@ -10,7 +32,7 @@
   width: 100vw;
   margin-left: calc(50% - 50vw);
   margin-right: calc(50% - 50vw);
-  padding-top: 10px;
+  padding-top: 15px;
   padding-bottom: 40px;
 }
 

@@ -1,5 +1,5 @@
 <nav class="nav"
-     style="display:flex; align-items:center; justify-content:space-between; gap:20px;">
+     style="display:flex; align-items:center; justify-content:space-between; gap:250px;">
 
   <!-- LEFT: logo + name -->
   <a href="{{ "/" | relURL }}"
@@ -11,13 +11,14 @@
          height="{{ .Site.Params.logo.height }}"
          alt="{{ .Site.Params.logo.alt }}">
 
-    <span class="nav-name"
-          style="font-size:23px; font-weight:600; color:#ffffff; white-space:nowrap;">
-      Cherene de Bruyn, AFHEA
-    </span>
-  </a>
+    <a class="navbar-brand" href="{{ "/" | relURL }}" style="margin-left:-500px;">
+  <img src="/images/cdbname.png "
+       alt="Cherene de Bruyn"
+       style="height:130px; margin-left:0; margin-right:auto;">
+</a>
 
-  <!-- RIGHT: nav links -->
+
+<!-- RIGHT: nav links -->
   <ul class="nav-links"
       style="display:flex; gap:16px; list-style:none; margin:0; padding:0;">
     {{ range .Site.Menus.main }}
