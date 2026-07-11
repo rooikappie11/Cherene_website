@@ -56,12 +56,12 @@ nav ul li a {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  flex-wrap: wrap; /* THIS is the magic */
-  gap: 10px;
+  flex-wrap: wrap; /
+  gap: 100px;
 }
 
 /* On phones, stack the header elements */
-@media (max-width: 700px) {
+@media (max-width:100px) {
   .header-flex, .site-header, nav, .nav-container {
     flex-direction: column;
     text-align: center;
