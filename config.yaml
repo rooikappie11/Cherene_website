@@ -29,7 +29,7 @@ params:
   highlightjsTheme: "github"
   MathJaxCDN: "//cdnjs.cloudflare.com/ajax/libs"
   MathJaxVersion: "2.7.5"
-  favicon: "favicon.ico"
+  favicon: "images/CdBlogo2.png"
  
 security:
   allowContent: ['.*']
