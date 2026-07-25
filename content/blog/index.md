@@ -10,10 +10,22 @@ markup: html
 </div>
 
 <!-- Subscribe to newsletter box -->
-<div style="background: #004f5280; padding: 24px; border-radius: 8px; max-width: 780px; margin: 0 auto 32px auto; display: flex; justify-content: space-between; align-items: flex-start; gap: 24px; font-size: 11pt;">
+<div style="
+  background: #004f5280;
+  padding: 24px;
+  border-radius: 8px;
+  max-width: 780px;
+  margin: 0 auto 32px auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 24px;
+  font-size: 11pt;
+">
 
   <!-- Left text -->
-  <div style="flex: 1; color:#282828; line-height: 1.35;">
+  <div style="flex: 1 1 300px; color:#282828; line-height: 1.35;">
     <div style="font-weight: 600; margin-bottom: 6px; font-size: 15pt;">
       Want to get more out of your academic life and become a high‑achieving student?
     </div>
@@ -24,10 +36,13 @@ markup: html
     </div>
   </div>
 
-  <!-- Right form: REAL EMAIL BOX -->
-  <div style="flex: 0 0 260px;">
+  <!-- Right form: REAL RESPONSIVE EMAIL BOX -->
+  <div style="flex: 1 1 260px;">
 
-    <form action="https://cherenedebruyn.substack.com/subscribe" method="post" target="_blank" style="display:flex; flex-direction:column; gap:8px;">
+    <form action="https://cherenedebruyn.substack.com/subscribe"
+          method="post"
+          target="_blank"
+          style="display:flex; flex-direction:column; gap:10px; max-width:260px;">
 
       <input
         type="email"
@@ -35,19 +50,20 @@ markup: html
         required
         placeholder="Email address"
         style="
-          width: 80%;
-          padding: 8px 10px;
+          width: 100%;
+          padding: 10px 12px;
           border-radius: 6px;
           border: 1px solid #004f52;
           font-size: 11pt;
+          box-sizing: border-box;
         "
       >
 
       <button
         type="submit"
         style="
-          width: 80%;
-          padding: 8px 10px;
+          width: 100%;
+          padding: 10px 12px;
           border-radius: 6px;
           border: none;
           background: #004f52;
@@ -67,6 +83,9 @@ markup: html
     </div>
 
   </div>
+
+</div>
+
 
 </div>
 
