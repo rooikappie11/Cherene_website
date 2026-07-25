@@ -39,9 +39,7 @@ markup: html
   <!-- Right form: REAL RESPONSIVE EMAIL BOX -->
   <div style="flex: 1 1 260px;">
 
-    <form action="https://cherenedebruyn.substack.com/subscribe"
-          method="post"
-          target="_blank"
+    <form onsubmit="window.location.href='https://cherenedebruyn.substack.com/subscribe?email=' + encodeURIComponent(this.email.value); return false;"
           style="display:flex; flex-direction:column; gap:10px; max-width:260px;">
 
       <input
@@ -83,9 +81,6 @@ markup: html
     </div>
 
   </div>
-
-</div>
-
 
 </div>
 
