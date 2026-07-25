@@ -19,6 +19,8 @@ menu:
       url: "/talks/"
     - name: Projects
       url: "/projects/"
+    - name: Blog
+      url: "/blog/"
 
 params:
   customCSS: ["css/style.css"]
@@ -33,7 +35,7 @@ params:
  
 security:
   allowContent: ['.*']
-
+  
 markup:
   goldmark:
     renderer:

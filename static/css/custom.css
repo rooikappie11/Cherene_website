@@ -25,38 +25,6 @@
   }
 }
 
-/* === SUBSTACK GRID LAYOUT === */
-#latest-posts {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 20px;
-  justify-content: center;
-  margin-bottom: 20px;
-}
-
-/* Desktop: 3 columns */
-#latest-posts .post {
-  flex: 1 1 calc(33.33% - 20px);
-  max-width: 350px;
-  position: relative;
-  overflow: hidden;
-  border-radius: 8px;
-}
-
-/* Tablet: 2 columns */
-@media (max-width: 900px) {
-  #latest-posts .post {
-    flex: 1 1 calc(50% - 20px);
-  }
-}
-
-/* Phone: 1 column */
-@media (max-width: 600px) {
-  #latest-posts .post {
-    flex: 1 1 100%;
-  }
-}
-
 /* === IMAGE + OVERLAY === */
 .post_image_wrapper {
   height: 180px;
@@ -170,6 +138,7 @@
     margin-right: 0 !important;
   }
 }
+
 /* === SATISFY NAME FONT === */
 .nav-name {
   font-family: 'Satisfy', cursive !important;
@@ -179,7 +148,75 @@
   white-space: nowrap !important;
 }
 
+/* === FIXED RIGHT SIDEBAR === */
+.right-sidebar {
+  position: fixed;
+  top: 120px;        /* sits below your navigation bar */
+  right: 40px;       /* stays on the far right */
+  width: 280px;
+  background: white;
+  padding-bottom: 20px;
+}
 
+/* Smaller heading */
+.right-sidebar h2 {
+  font-size: 1.6rem;
+  margin-top: 0;
+  color: #004f52;
+}
 
+/* Sidebar text */
+.right-sidebar p {
+  font-size: 0.95rem;
+  color: #444;
+}
 
+/* MOBILE BEHAVIOUR */
+@media (max-width: 900px) {
+  .right-sidebar {
+    position: static;     /* sidebar drops below posts */
+    width: 100%;
+    margin-top: 40px;
+  }
+}
+
+.blog-page {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+/* two columns: posts + sidebar */
+.blog-layout {
+  display: grid;
+  grid-template-columns: 1fr 280px;
+  gap: 40px;
+  align-items: start;
+}
+
+/* make Substack column narrower so it feels “in the middle” */
+#latest-posts {
+  max-width: 700px;
+}
+
+/* sidebar on the right */
+.right-sidebar h2 {
+  font-size: 1.5rem;
+  margin-top: 0;
+  color: #004f52;
+}
+
+.right-sidebar p {
+  font-size: 14px;
+}
+
+/* mobile: stack them */
+@media (max-width: 900px) {
+  .blog-layout {
+    grid-template-columns: 1fr;
+  }
+
+  #latest-posts {
+    max-width: 100%;
+  }
+}
 

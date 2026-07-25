@@ -221,31 +221,13 @@ body * {
   </a>
 </div>
 
-<h2 class="section-heading">
-  Latest post from my Substack
-</h2>
-
-
-<div style="text-align: center; margin-bottom: 10px;">
-  <img src="/images/bruynchildlogo.png" alt="BruynChild Logo"
-       style="width: 200px; height: auto;">
 </div>
 
-<div id="latest-posts" class="row">
-  Loading latest posts...
-</div>
+</div> <!-- end trans-block -->
 
-<div class="substack-buttons"
-     style="text-align:center; margin-top:20px; display:flex; flex-direction:column; gap:12px; align-items:center;">
+</div> <!-- end page-background -->
 
-  <a href="https://cherenedebruyn.substack.com/subscribe"
-     target="_blank"
-     style="background:#004f52; color:white; padding:12px 20px; border-radius:6px; text-decoration:none; font-weight:600;">
-     Subscribe to BruynChild
-  </a>
-</div>
-
-<h2 class="section-heading">
+<h2 class="section-heading" style="font-size: 3rem;">
   More of my writing
 </h2>
 
@@ -278,8 +260,4 @@ body * {
     </div>
   </div>
 
-</div>
 
-</div> <!-- end trans-block -->
-
-</div> <!-- end page-background -->
