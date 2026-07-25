@@ -10,10 +10,10 @@ markup: html
 </div>
 
 <!-- SIDEBAR (TRUE FAR-RIGHT COLUMN) -->
-<div style="
+<div class="right-sidebar" style="
   position: absolute;
   right: 40px;
-  top: 260px;   /* ⭐ SHIFTED DOWN BELOW NAV + LOGO */
+  top: 260px;
   width: 280px;
   background: white;
 ">
