@@ -18,6 +18,9 @@ date: "2026-06-10"
 
 <div style="line-height: 1.5; margin-top: 8px;">
 
+- **Tracking Microbial Change in Grave Soils: Preliminary findings from a longitudinal study at AFTER**  
+  *Flash Talk, Microbiome Research Day hosted by the Microbiome Innovation Centre, University of Liverpool, 29 June 2026*
+
 - [**Making your research matter: policy and practice engagement for doctoral researchers**](https://www.ljmu.ac.uk/staff/students-at-the-heart/2026-conference/programme)  
   *LJMU Students at the Heart Conference, 16-17 June 2026*
   
@@ -78,6 +81,9 @@ date: "2026-06-10"
 ## Poster Presentations
 
 <div style="line-height: 1.5; margin-top: 8px;">
+
+- **Tracking Microbial Change in Grave Soils: Preliminary findings from a longitudinal study at AFTER**  
+  *Flash Talk, Microbiome Research Day hosted by the Microbiome Innovation Centre, University of Liverpool, 29 June 2026 (3rd Place)*
 
 - **[GRAVES: A framework for forensic research](./posters/graves-framework/)**  
   *MDVI COST Action, IAFS Bulgaria, 2026*
@@ -172,8 +178,6 @@ date: "2026-06-10"
   </div>
 
 </div>
-
-  
 
 
 
