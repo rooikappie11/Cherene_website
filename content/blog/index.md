@@ -27,14 +27,15 @@ markup: html
   <!-- Left text -->
   <div style="flex: 1 1 300px; color:#282828; line-height: 1.35;">
     <div style="font-weight: 600; margin-bottom: 6px; font-size: 15pt;">
-      Want to get more out of your academic life and become a high‑achieving student?
+      Develop the Resilient Researcher Mindset. 
     </div>
 
-    <div style="font-size: 10pt;">
+    <div style="font-size: 9pt;">
       Subscribe to Cherene’s Substack newsletter <strong>Bruynchild</strong>.  
-      Join a community of readers who receive tips, frameworks, and essays delivered straight to their inbox.
+      Join a community of postgraduate and early‑career researchers receiving weekly insights on momentum, resilience, and sustainable academic workflows — shaped by real fieldwork, real pressure, and real research life, delivered straight to your inbox.
+      </div>
+    
     </div>
-  </div>
 
   <!-- Right form: REAL RESPONSIVE EMAIL BOX -->
   <div style="flex: 1 1 260px;">
