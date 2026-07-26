@@ -171,25 +171,26 @@ body, body * {
         <!-- Heading 2 -->
         <h2 style="
           margin: 0;
-          color: #1a1a1a;
-          font-size:30px;
+          color: #3C1414;
+          font-size:25px;
           font-weight: 700;
           font-family: Helvetica !important;
         ">
-          Archaeologist & Grave Scientist
+          Archaeologist • Grave Scientist • Research Resilience Writer
         </h2>
 
         <!-- Bio -->
         <h3 style="
           font-weight: normal;
-          font-size:23px;
+          font-size:20px;
           color: #1a1a1a;
           margin-top: 0;
           line-height: 1.35;
           font-family: Helvetica !important;
         ">
-          Cherene is a science communicator and PhD researcher, studying clandestine grave detection through UAV‑based remote sensing and soil microbiome analysis. Alongside her research, she writes about academic life, research culture, and the habits that support a resilient researcher mindset.
-        </h3>
+         Cherene is an international PhD researcher studying clandestine grave location through UAV‑based remote sensing and soil microbiome analysis. 
+         Alongside her scientific work, she writes about academic life, research culture, and the evidence‑based systems that shape the <em>Resilient Researcher Mindset</em>, helping postgraduate scholars and early‑career academics build momentum, prevent burnout, and sustain intentional research workflows.
+         </h3>
 
       </div>
 
