@@ -277,32 +277,59 @@ body, body * {
 
   <div class="pub-grid">
 
-    <div>
-      <div class="pub-source" style="color:#282828; font-size:18px; font-family:Helvetica !important;">
-        Research Hive
-      </div>
-      <div class="pub-tile">
-        <img src="/images/kusozubody.png" class="pub-cover">
-        <a href="https://research-hive.com/2026/07/02/the-buried-truth-about-body-farms-and-scientific-lessons-from-decay/"
-           target="_blank"
-           class="pub-title">
-          The buried truth about body farms and scientific lessons from decay
-        </a>
-      </div>
+    <!-- September 2026 -->
+    <div class="pub-tile">
+      <img src="/images/thenodestudent.jpg" class="pub-cover">
+      <a href="https://thenode.biologists.com/the-final-stretch-that-tests-every-phd-student/education/"
+         target="_blank"
+         class="pub-title">
+        The final stretch that tests every PhD student <br>
+        <b>The Node</b> <i>(Sept 2026)</i>
+      </a>
     </div>
 
-    <div>
-      <div class="pub-source" style="color:#282828; font-size:18px; font-family:Helvetica !important;">
-        Human Bridges
-      </div>
-      <div class="pub-tile">
-        <img src="/images/humanbridges2.png" class="pub-cover">
-        <a href="https://observatory.wiki/Parameters_of_Animal_Self-Medication_Behavior"
-           target="_blank"
-           class="pub-title">
-          Parameters of Animal Self‑Medication Behaviour
-        </a>
-      </div>
+    <!-- July 2026 -->
+    <div class="pub-tile">
+      <img src="/images/kusozubody.png" class="pub-cover">
+      <a href="https://research-hive.com/2026/07/02/the-buried-truth-about-body-farms-and-scientific-lessons-from-decay/"
+         target="_blank"
+         class="pub-title">
+        The buried truth about body farms and scientific lessons from decay <br>
+        <b>Research Hive</b> <i>(July 2026)</i>
+      </a>
+    </div>
+
+    <!-- June 2026 -->
+    <div class="pub-tile">
+      <img src="/images/humanbridges2.png" class="pub-cover">
+      <a href="https://observatory.wiki/Parameters_of_Animal_Self-Medication_Behavior"
+         target="_blank"
+         class="pub-title">
+        Parameters of Animal Self‑Medication Behaviour <br>
+        <b>Human Bridges</b> <i>(June 2026)</i>
+      </a>
+    </div>
+
+    <!-- December 2025 -->
+    <div class="pub-tile">
+      <img src="/images/big_elephant.jpg" class="pub-cover">
+      <a href="https://observatory.wiki/Parameters_of_Animal_Mortuary_Behavior"
+         target="_blank"
+         class="pub-title">
+        Parameters of Animal Mortuary Behaviour <br>
+        <b>Human Bridges</b> <i>(Dec 2025)</i>
+      </a>
+    </div>
+
+    <!-- August 2025 -->
+    <div class="pub-tile">
+      <img src="/images/crucible.jpg" class="pub-cover">
+      <a href="https://research-hive.com/2025/08/26/the-phd-confirmation-process-is-not-a-hurdle-its-a-crucible/"
+         target="_blank"
+         class="pub-title">
+        The PhD confirmation process is not a hurdle — it’s a crucible <br>
+        <b>Research Hive</b> <i>(Aug 2025)</i>
+      </a>
     </div>
 
   </div>
