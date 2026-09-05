@@ -22,8 +22,6 @@ Teaching and mentoring are central to my work, and I value helping students and 
 
 Alongside my [technical writing and academic research](../publications/), I write about PhD life and productivity on my Substack [BruynChild](https://cherenedebruyn.substack.com/?utm_campaign=profile_chips) (pronounced brainchild). I also contribute to [The Observatory Human Birdges](https://observatory.wiki/Cherene_de_Bruyn) and the Science Communication blog [Research Hive](https://research-hive.com/).   
 
-My research interests are grave science, forensic taphonomy, Egyptian archaeology and burial archaeology
-
 <!-- FULL-WIDTH CAREER IMAGE -->
 <div style="
   position: relative;
