@@ -47,7 +47,7 @@ title: "Projects"
   </a>
 
   <a class="project-card" href="/projects/fieldwork/phokeng/">
-    <img src="/images/phokeng_cover.jpg" class="project-cover">
+    <img src="/images/phokeng.jpg" class="project-cover">
     <div class="project-title">Archaeology Field School Boekenhoutfontein Farm in Phokeng</div>
   </a>
 
@@ -57,7 +57,7 @@ title: "Projects"
   </a>
 
   <a class="project-card" href="/projects/fieldwork/sudwala/">
-    <img src="/images/sudwala_cover.jpg" class="project-cover">
+    <img src="/images/sudwala.png" class="project-cover">
     <div class="project-title">Archaeology Field School in Sudwala</div>
   </a>
 
@@ -70,12 +70,12 @@ title: "Projects"
 <div class="project-grid">
 
   <a class="project-card" href="/projects/outreach/pacs_od/">
-    <img src="/images/pacs_od_cover.jpg" class="project-cover">
+    <img src="/images/pacsod1.jpg" class="project-cover">
     <div class="project-title">Pretoria Archaeology Club for Schools Open Day</div>
   </a>
 
   <a class="project-card" href="/projects/outreach/pacs_ao/">
-    <img src="/images/pacs_ao_cover.jpg" class="project-cover">
+    <img src="/images/pacsao1.jpg" class="project-cover">
     <div class="project-title">Pretoria Archaeology Club for Schools Archaeology Olympics</div>
   </a>
 
