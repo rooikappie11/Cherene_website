@@ -188,7 +188,7 @@ body, body * {
           line-height: 1.35;
           font-family: Helvetica !important;
         ">
-         Cherene is an international PhD researcher studying clandestine grave location through UAV‑based remote sensing and soil microbiome analysis. 
+         Cherene is an international PhD researcher. Her current project focuuses on clandestine grave location through UAV‑based remote sensing and soil microbiome analysis. 
          Alongside her scientific work, she writes about academic life, research culture, and the evidence‑based systems that shape the <em>Resilient Researcher Mindset</em>, helping postgraduate scholars and early‑career academics build momentum, prevent burnout, and sustain intentional research workflows.
          </h3>
 
@@ -235,27 +235,76 @@ body, body * {
    Research Interests
   </h3>
 
-  <p style="font-size:16px; margin-top: 0; font-family: Helvetica !important;">
-    Burial archaeology, post‑mortem body treatment, taphonomy, and the ecological and material signatures human activity leaves on the landscape.
-    I study these through soil microbiomes (for forensic contexts) and remote‑sensing data from GIS, GPR, and UAV‑based imaging.
+<div class="research-section" style="font-family: Helvetica !important; font-size:16px;">
+
+  <p class="inline-diamonds" style="margin-top:0;">
+    <span class="diamond"></span>
+    Burial archaeology
+    <span class="diamond"></span>
+    Post‑mortem body treatment
+    <span class="diamond"></span>
+    Taphonomy
+    <span class="diamond"></span>
+    Ecological and material signatures of funerary activity
   </p>
 
-  <div style="margin-top: 20px;">
-    <a href="https://www.linkedin.com/in/cherenedebruyn/" target="_blank">
-      <img src="/images/LI-In-Bug.png" style="width: 32px; margin-right: 10px;">
-    </a>
-    <a href="https://orcid.org/0000-0002-2979-2289" target="_blank">
-      <img src="/images/ORCID_iD.svg.png" style="width: 32px; margin-right: 10px;">
-    </a>
-    <a href="https://scholar.google.com/citations?user=lJ8DcqwAAAAJ&hl=en" target="_blank">
-      <img src="/images/Google_Scholar_logo.svg.png" style="width: 32px; margin-right: 10px;">
-    </a>
-    <a href="https://profiles.ljmu.ac.uk/19117-cherene-de-bruyn" target="_blank">
-      <img src="/images/ljmu.png" style="width: 32px; margin-right: 10px;">
-    </a>
-  </div>
+  <p class="research-subtext">
+    I investigate these processes through skeletal materials, soil microbiomes, 
+    and remote‑sensing datasets (GIS, GPR, UAV imaging).
+  </p>
 
 </div>
+
+<style>
+.inline-diamonds .diamond {
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  background: #004f52;
+  transform: rotate(45deg);
+  margin: 0 10px;
+  position: relative;
+  top: -1px;
+}
+
+/* Centred second line */
+.research-subtext {
+  margin-top: 6px;
+  font-size: 15px;
+  color: #444;
+  line-height: 1.35;
+  max-width: 650px;
+  text-align: center;     /* centres the sentence */
+  margin-left: auto;      /* keeps it centred even in wide layouts */
+  margin-right: auto;
+}
+</style>
+
+
+
+  </p>
+
+ <div class="social-icons centred-line" style="margin-top: 20px;">
+  <a href="https://www.linkedin.com/in/cherenedebruyn/" target="_blank">
+    <img src="/images/LI-In-Bug.png" style="width: 32px; margin-right: 10px;">
+  </a>
+  <a href="https://orcid.org/0000-0002-2979-2289" target="_blank">
+    <img src="/images/ORCID_iD.svg.png" style="width: 32px; margin-right: 10px;">
+  </a>
+  <a href="https://scholar.google.com/citations?user=lJ8DcqwAAAAJ&hl=en" target="_blank">
+    <img src="/images/Google_Scholar_logo.svg.png" style="width: 32px; margin-right: 10px;">
+  </a>
+  <a href="https://profiles.ljmu.ac.uk/19117-cherene-de-bruyn" target="_blank">
+    <img src="/images/ljmu.png" style="width: 32px; margin-right: 10px;">
+  </a>
+</div>
+
+<style>
+.centred-line {
+  text-align: center;
+}
+</style>
+
 
 
 <!-- CHERENE THE WRITER -->
