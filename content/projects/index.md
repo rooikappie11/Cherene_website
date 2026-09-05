@@ -9,89 +9,121 @@ title: "Projects"
     <li>- <a href="#research">Research</a></li>
     <li>- <a href="#fieldwork">Fieldwork</a></li>
     <li>- <a href="#outreach">Outreach</a></li>
-      </ul>
+  </ul>
 </div>
 
-## Research
-<ul style="list-style: none; padding-left: 0;">
+<!-- ===================== RESEARCH ===================== -->
 
-  <li style="margin-bottom: 20px;">
-    <img src="/images/trowel.png" style="width:24px; vertical-align: middle; margin-right:10px;">
-    <a href="/projects/research/phd/" style="color:#004f52; font-size:20px; font-weight:600;">
-      Clandestine Grave Location
-    </a>
-  </li>
+## <img src="/images/trowel.png" style="width:24px; vertical-align: middle; margin-right:10px;"> Research {#research}
 
-</ul>
+<div class="project-grid">
 
-## Fieldwork
-<ul style="list-style: none; padding-left: 0;">
+  <a class="project-card" href="/projects/research/phd/">
+    <img src="/images/cdbljmu.jpg" class="project-cover">
+    <div class="project-title">Clandestine Grave Location</div>
+  </a>
 
-  <li style="margin-bottom: 20px;">
-    <img src="/images/trowel.png" style="width:24px; vertical-align: middle; margin-right:10px;">
-    <a href="/projects/fieldwork/umbeli_belli/" style="color:#004f52; font-size:20px; font-weight:600;">
-      Umbelli Beli Middle Stone Age Excavation
-    </a>
-  </li>
+</div>
 
-  <li style="margin-bottom: 20px;">
-    <img src="/images/trowel.png" style="width:24px; vertical-align: middle; margin-right:10px;">
-    <a href="/projects/fieldwork/grassridge/" style="color:#004f52; font-size:20px; font-weight:600;">
-      Grassridge Archaeological and Palaeo-environmental Project
-    </a>
-  </li>
+<!-- ===================== FIELDWORK ===================== -->
 
-  <li style="margin-bottom: 20px;">
-    <img src="/images/trowel.png" style="width:24px; vertical-align: middle; margin-right:10px;">
-    <a href="/projects/fieldwork/maremani/" style="color:#004f52; font-size:20px; font-weight:600;">
-      Maremani Nature Reserve Excavation
-    </a>
-  </li>
+## <img src="/images/trowel.png" style="width:24px; vertical-align: middle; margin-right:10px;"> Fieldwork {#fieldwork}
 
-  <li style="margin-bottom: 20px;">
-    <img src="/images/trowel.png" style="width:24px; vertical-align: middle; margin-right:10px;">
-    <a href="/projects/fieldwork/phokeng/" style="color:#004f52; font-size:20px; font-weight:600;">
-      Archaeology Field School Boekenhoutfontein Farm in Phokeng
-    </a>
-  </li>
+<div class="project-grid">
 
-  <li style="margin-bottom: 20px;">
-    <img src="/images/trowel.png" style="width:24px; vertical-align: middle; margin-right:10px;">
-    <a href="/projects/fieldwork/lephalale/" style="color:#004f52; font-size:20px; font-weight:600;">
-      Archaeology Field School in Lephalale
-    </a>
-  </li>
+  <a class="project-card" href="/projects/fieldwork/umbeli_belli/">
+    <img src="/images/umbellibelli.png" class="project-cover">
+    <div class="project-title">Umbelli Beli Middle Stone Age Excavation</div>
+  </a>
 
-  <li style="margin-bottom: 20px;">
-    <img src="/images/trowel.png" style="width:24px; vertical-align: middle; margin-right:10px;">
-    <a href="/projects/fieldwork/sudwala/" style="color:#004f52; font-size:20px; font-weight:600;">
-      Archaeology Field School in Sudwala
-    </a>
-  </li>
+  <a class="project-card" href="/projects/fieldwork/grassridge/">
+    <img src="/images/grassridge.jpg" class="project-cover">
+    <div class="project-title">Grassridge Archaeological and Palaeo-environmental Project</div>
+  </a>
 
-</ul>
+  <a class="project-card" href="/projects/fieldwork/maremani/">
+    <img src="/images/maremani.jpg" class="project-cover">
+    <div class="project-title">Maremani Nature Reserve Excavation</div>
+  </a>
 
-## Outreach
-<ul style="list-style: none; padding-left: 0;">
+  <a class="project-card" href="/projects/fieldwork/phokeng/">
+    <img src="/images/phokeng_cover.jpg" class="project-cover">
+    <div class="project-title">Archaeology Field School Boekenhoutfontein Farm in Phokeng</div>
+  </a>
 
-  <li style="margin-bottom: 20px;">
-    <img src="/images/trowel.png" style="width:24px; vertical-align: middle; margin-right:10px;">
-    <a href="/projects/outreach/pacs_od/" style="color:#004f52; font-size:20px; font-weight:600;">
-      Pretoria Archaeology Club for Schools Open Day
-    </a>
-  </li>
+  <a class="project-card" href="/projects/fieldwork/lephalale/">
+    <img src="/images/lephalale_cover.jpg" class="project-cover">
+    <div class="project-title">Archaeology Field School in Lephalale</div>
+  </a>
 
-  <li style="margin-bottom: 20px;">
-    <img src="/images/trowel.png" style="width:24px; vertical-align: middle; margin-right:10px;">
-    <a href="/projects/outreach/pacs_ao/" style="color:#004f52; font-size:20px; font-weight:600;">
-      Pretoria Archaeology Club for Schools Archaeology Olympics
-    </a>
-  </li>
+  <a class="project-card" href="/projects/fieldwork/sudwala/">
+    <img src="/images/sudwala_cover.jpg" class="project-cover">
+    <div class="project-title">Archaeology Field School in Sudwala</div>
+  </a>
 
-</ul>
+</div>
+
+<!-- ===================== OUTREACH ===================== -->
+
+## <img src="/images/trowel.png" style="width:24px; vertical-align: middle; margin-right:10px;"> Outreach {#outreach}
+
+<div class="project-grid">
+
+  <a class="project-card" href="/projects/outreach/pacs_od/">
+    <img src="/images/pacs_od_cover.jpg" class="project-cover">
+    <div class="project-title">Pretoria Archaeology Club for Schools Open Day</div>
+  </a>
+
+  <a class="project-card" href="/projects/outreach/pacs_ao/">
+    <img src="/images/pacs_ao_cover.jpg" class="project-cover">
+    <div class="project-title">Pretoria Archaeology Club for Schools Archaeology Olympics</div>
+  </a>
+
+</div>
 
 <style>
+/* Hide archive list */
 .archive {
   display: none !important;
+}
+
+/* Two‑column project grid */
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+  margin-top: 20px;
+}
+
+/* Project card block */
+.project-card {
+  display: block;
+  background: #ffffff;
+  border: 1px solid #e5e5e5;
+  border-radius: 6px;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  transition: box-shadow 0.2s ease;
+}
+
+.project-card:hover {
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+}
+
+/* Cover image */
+.project-cover {
+  width: 100%;
+  height: 160px;
+  object-fit: cover;
+  border-radius: 4px;
+  margin-bottom: 10px;
+}
+
+/* Title */
+.project-title {
+  font-size: 18px;
+  font-weight: 600;
+  color: #004f52;
 }
 </style>

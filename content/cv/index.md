@@ -35,7 +35,7 @@ title: "Curriculum Vitae"
 
 
 ## Education
-**PhD**, Liverpool John Moores University _(ongoing)_  
+**PhD**, Liverpool John Moores University _(2024-ongoing)_  
 **MA Archaeology**, University College London _(2016–2017)_  
 **BA Honours Physical Anthropology**, University of Pretoria _(2015)_  
 **BA Honours Archaeology**, University of Pretoria _(2013)_  
@@ -132,64 +132,79 @@ Randburg, South Africa
 - **Reviewer**, International Journal of Student Research in Archaeology _(2015–2018)_  
 
 ## Grants & Funding
-**Faculty of Health, Innovation, Technology and Science Research Innovation Fund 2026** Awarded: £8 050,00   
+**Faculty of Health, Innovation, Technology and Science Research Innovation Fund 2026** <br>
+Awarded: £8 050,00   
 _Project_: Advancing forensic burial detection: Integrating microbial genomics, remote sensing, and machine learning across climates  
 _Recipients_: C. de Bruyn, Dr T.K. Ralebitso-Senior, Dr K. Scott, Dr H. Panter, Dr F. Bezombes, Dr P. Shum and Professor S. Wich
 
-**Turing Scheme Research Placement 2025** Awarded: £838,00   
+**Turing Scheme Research Placement 2025** <br>
+Awarded: £838,00   
 _Project_: Research visit to the University of Copenhagen, Denmark, 4 May -30 May 2025  
 _Recipients_: C. de Bruyn, Dr T.K. Ralebitso-Senior (Lead)
 
-**FORRI Research Support 2025 (19 December 2025)** Awarded: £5 000,00   
+**FORRI Research Support 2025 (19 December 2025)**<br> 
+Awarded: £5 000,00   
 _Project_: Support towards research visit to the University of Cape Town, South Africa and sequencing of soil samples  
 _Recipients_: C. de Bruyn (PGR; Lead), Dr K. Scott, Dr H. Panter, Dr F. Bezombes and Dr T.K. Ralebitso-Senior  
 
-**FORRI Research Scholarship 2025 (2 July 2026)** Awarded: £ 1 000,00   
+**FORRI Research Scholarship 2025 (2 July 2026)** <br>
+Awarded: £ 1 000,00   
 _Project_: Funding to support the Winter 2025 Forensic Taphonomy experiment  the University of Cape Town, South Africa  
 _Recipients_: C. de Bruyn (PGR; Lead), Dr K. Scott, Dr H. Panter, Dr F. Bezombes and Dr T.K. Ralebitso-Senior
 
-**FORRI Research Support 2025** Awarded: £ 5 000,00   
+**FORRI Research Support 2025** <br>
+Awarded: £ 5 000,00   
 _Project_: FORRI research support towards the University of Cape Town, South Africa and the University of Copenhagen, Denmark Collaboration   
 _Recipients_: C. de Bruyn (PGR; Lead), Dr K. Scott, Dr H. Panter, Dr F. Bezombes and Dr T.K. Ralebitso-Senior
 
-**Applied Microbiology International Student Travel Bursary** Awarded: £ 200,00   
+**Applied Microbiology International Student Travel Bursary** <br>
+Awarded: £ 200,00   
 _Project_: Conference funding to attend the AMI MMEG 2024 on 16-18 December 2024  
 _Recipients_: C. de Bruy
 
-**LJMU Doctoral Academy PGR Conference Travel Fund** Awarded: £ 200,00   
+**LJMU Doctoral Academy PGR Conference Travel Fund** <br>
+Awarded: £ 200,00   
 _Project_: Conference funding to attend the AMI MMEG 2024 on 16-18 December 2024  
 _Recipients_: C. de Bruyn
 
-**British Association for Biological Anthropology and Osteoarchaeology (BABAO) Microgrant** Awarded: £ 200,00   
+**British Association for Biological Anthropology and Osteoarchaeology (BABAO) Microgrant** <br>
+Awarded: £ 200,00   
 _Project_: Conference funding to attend the British Association for Forensic Anthropology Winter conference, 30 November - 1 December 2024, Oxford, UK  
 _Recipients_: C. de Bruyn
 
-**FORRI Research Support: June 2024t** Awarded: £ 5 567,00   
+**FORRI Research Support: June 2024** <br>
+Awarded: £ 5 567,00   
 _Project_: Forensic research visit and collaboration with the University of Cape Town, South Africa  
 _Recipients_: C. de Bruyn, Dr T.K. Ralebitso-Senior (Lead)
 
-**FORRI Research Support: June 2024** Awarded: £ 2 353,00   
+**FORRI Research Support: June 2024** <br>
+Awarded: £ 2 353,00   
 _Project_: Forensic Research Visit to University of Central Lancashire (UCLan)  
 _Recipients_: C. de Bruyn (PGR; Lead), Dr K. Scott, Dr H. Panter, Dr F. Bezombes and Dr T.K. Ralebitso-Senior
 
-**Chevening Scholarship, British High Commission, Chevening Secretariat, and FCO** Awarded: Full Tution & stipend   
+**Chevening Scholarship, British High Commission, Chevening Secretariat, and FCO** <br> 
+Awarded: Full tution & stipend   
 _Project_: Master's degree in the UK  
 _Recipients_: C. de Bruyn
 
-**Conference Funding, Wenner-Gren Foundation 2013** Awarded: -   
-_Project_: Attending and presenting a psoter at the ASAPA Conference in Botswana  
+**Conference Funding, Wenner-Gren Foundation 2013** <br>
+Awarded: Conference Attendance Grant
+_Project_: Attending and presenting a poster at the ASAPA Conference in Botswana  
 _Recipients_: C. de Bruyn
 
-**Kent Bequest, Southern African Archaeological Society 2013** Awarded: R 4 000,00   
+**Kent Bequest, Southern African Archaeological Society 2013** <br>
+Awarded: R 4 000,00   
 _Project_: For the completion of Archaeology Honours degree fieldwork  
 _Recipients_: C. de Bruyn
 
 ## Awards
+- **Best Poster Price - 3rd Place**, Microbiome Innovation Centre Research Day, University of Liverpool, UK _(2026)_
 - **3MT People's choice Award**, Liverpool John Moores University 3MT Competition _(2026)_
 - **Winner North West Region**, FameLab Science communication Competition _(2026)_
 - **3MT Finalist**, Faculty of Health, Innovation, Technology and Science, Liverpool John Moores University _(2026)_
 - **Best Oral Presentation**, Postgraduate Researcher Research Bazaar Conference School of Pharmacy & Biomolecular Sciences, Liverpool John Moores University _(2025)_
-- **Bronze Award for Volunteering**, Chevening _(2017)_  
+- **Bronze Award for Volunteering**, Chevening Scholarship Programme _(2017)_  
+- **Best Student Presenter - 2nd Place**, Student Development Workshop, Southern African Archaeology Student Council _(2015)_  
 - **Best Archaeology Student (3rd Year)**, University of Pretoria _(2012)_  
 - **Mentor of the Year**, House Jasmyn Residence, University of Pretoria _(2011)_  
 - **Academic Achievement Award**, University of Pretoria _2010 & 2011)_ 
