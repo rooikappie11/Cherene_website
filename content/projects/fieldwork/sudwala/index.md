@@ -3,7 +3,7 @@ title: "Archaeology Field School in Sudwala"
 ---
 
 ## Project organisers
-[Dr. Alex Schoeman](https://orcid.org/0000-0002-3680-4276)
+[Dr. Alex Schoeman](https://orcid.org/0000-0002-3680-4276) <br>
 University of Pretoria, South Africa
 
 ### Fieldwork dates
