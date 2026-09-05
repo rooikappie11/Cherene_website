@@ -23,13 +23,36 @@ My doctoral research explores a parallel and complementary framework for locatin
 [📄 How do bodies decompose?](https://theconversation.com/how-do-bodies-decompose-cape-town-forensic-scientists-are-pushing-frontiers-of-new-detection-methods-262832) 
 
 ### Images
+<img src="/projects/research/phd/phd13.JPG" style="width:300px; margin-right:20px;">
+<img src="/projects/research/phd/phd24.jpg" style="width:300px; margin-right:20px;">
+<img src="/projects/research/phd/phd12.JPG" style="width:300px; margin-right:20px;">
+<img src="/projects/research/phd/phd25.jpg" style="width:300px; margin-right:20px;">
 <img src="/projects/research/phd/phd1.jpg" style="width:300px; margin-right:20px;">
 <img src="/projects/research/phd/phd2.jpg" style="width:300px; margin-right:20px;">
-<img src="/projects/research/phd/phd3.jpg" style="width:300px; margin-right:20px;">
 <img src="/projects/research/phd/phd4.jpg" style="width:300px; margin-right:20px;">
 <img src="/projects/research/phd/phd5.jpg" style="width:300px; margin-right:20px;">
 <img src="/projects/research/phd/phd6.jpg" style="width:300px; margin-right:20px;">
 <img src="/projects/research/phd/phd7.jpg" style="width:300px; margin-right:20px;">
-<img src="/projects/research/phd/phd8.jpg" style="width:300px; margin-right:20px;">
 <img src="/projects/research/phd/phd9.jpg" style="width:300px; margin-right:20px;">
 <img src="/projects/research/phd/phd10.jpg" style="width:300px; margin-right:20px;">
+<img src="/projects/research/phd/phd3.jpg" style="width:300px; margin-right:20px;">
+<img src="/projects/research/phd/phd14.jpg" style="width:300px; margin-right:20px;">
+<img src="/projects/research/phd/phd29.jpeg" style="width:300px; margin-right:20px;">
+<img src="/projects/research/phd/phd8.jpg" style="width:300px; margin-right:20px;">
+<img src="/projects/research/phd/phd11.jpg" style="width:300px; margin-right:20px;">
+<img src="/projects/research/phd/phd16.jpg" style="width:300px; margin-right:20px;">
+<img src="/projects/research/phd/phd17.jpg" style="width:300px; margin-right:20px;">
+<img src="/projects/research/phd/phd18.jpg" style="width:300px; margin-right:20px;">
+<img src="/projects/research/phd/phd21.jpg" style="width:300px; margin-right:20px;">
+<img src="/projects/research/phd/phd27.JPG" style="width:300px; margin-right:20px;">
+<img src="/projects/research/phd/phd28.JPG" style="width:300px; margin-right:20px;">
+<img src="/projects/research/phd/phd22.jpg" style="width:300px; margin-right:20px;">
+<img src="/projects/research/phd/phd19.jpg" style="width:300px; margin-right:20px;">
+<img src="/projects/research/phd/phd26.jpg" style="width:300px; margin-right:20px;">
+<img src="/projects/research/phd/phd31.jpeg" style="width:300px; margin-right:20px;">
+<img src="/projects/research/phd/phd32.png" style="width:300px; margin-right:20px;">
+<img src="/projects/research/phd/phd33.jpeg" style="width:300px; margin-right:20px;">
+<img src="/projects/research/phd/phd30.png" style="width:300px; margin-right:20px;">
+<img src="/projects/research/phd/phd15.jpeg" style="width:300px; margin-right:20px;">
+<img src="/projects/research/phd/phd34.png" style="width:300px; margin-right:20px;">
+<img src="/projects/research/phd/mic.jpg" style="width:300px; margin-right:20px;">

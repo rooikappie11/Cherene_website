@@ -7,7 +7,7 @@ date: "2026-06-10"
 <div style="font-size: 0.85rem; line-height: 1.3; margin-top: 0;">
   <ul style="list-style-type: none; padding-left: 0; margin-top: 0;">
     <li>- <a href="#journal-publications">Journal Publications</a></li>
-    <li>- <a href="#online-science-communication-articles">Online Science Communication Articles & Blogs</a></li>
+    <li>- <a href="#online-science-communication-articles">Online Science Communication Articles</a></li>
     <li>- <a href="#technical-reports">Technical Reports</a></li>
   </ul>
 </div>
@@ -16,16 +16,15 @@ date: "2026-06-10"
 
 <!-- Journal Article 1 -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 25px;">
-  <img src="/images/diggingstick.png" style="width: 160px; height: 220px; object-fit: cover; margin-right: 20px;">
+  <img src="/images/frontiers.png" style="width: 160px; height: 220px; object-fit: cover; margin-right: 20px;">
   <div>
-    <strong>de Bruyn, C. (2014).</strong><br>
-    <a href="https://www.researchgate.net/publication/341233008_An_archaeological_investigation_in_the_Masebe_Nature_Reserve_Limpopo_Province" target="_blank">
-      An archaeological investigation in the Masebe Nature Reserve, Limpopo Province.
+    <strong>de Bruyn, C., Scott, K., Panter, H., Bezombes, F. & Ralebitso-Senior, T.K. (2025).</strong><br>
+    <a href="https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2025.1684366/full" target="_blank">
+      Advancing time-since-interval estimation for clandestine graves: From traditional approaches to forensic ecogenomics using massively parallel sequencing.
     </a><br>
-    <em>The Digging Stick, 31</em>(1), 9–11.
+    <em>Frontiers in Microbiology, 16</em>, 1684366.
   </div>
 </div>
-
 
 <!-- Journal Article 2 -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 25px;">
@@ -81,14 +80,16 @@ date: "2026-06-10"
   <div>
     <strong>de Bruyn, C. (2014).</strong><br>
     <a href="https://www.researchgate.net/publication/341233008_An_archaeological_investigation_in_the_Masebe_Nature_Reserve_Limpopo_Province" target="_blank">
-      An archaeological investigation in the Masebe Nature Reserve, Limpopo Province.
-    </a><br>
-    <em>The Digging Stick, 31</em>(1), 9–11.
+      An archaeological investigation in the Masebe Nature Reserve, Limpopo Province.<br>
+    </a>
+  <em>The Digging Stick, 31</em>(1), 9–11.
   </div>
 </div>
 
+## Online Science Communication Articles
 
-## Online Science Communication Articles & Blogs
+**de Bruyn, C. (September 2026).**  
+*The final stretch that tests every PhD Student .* The Node. [Read Article](https://thenode.biologists.com/the-final-stretch-that-tests-every-phd-student/education/)
 
 **de Bruyn, C. (July 2026).**  
 *The buried truth about body farms and scientific lessons from decay.* Research Hive. [Read Article](https://research-hive.com/2026/07/02/the-buried-truth-about-body-farms-and-scientific-lessons-from-decay/)

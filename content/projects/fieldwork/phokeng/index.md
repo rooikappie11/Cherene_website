@@ -29,6 +29,7 @@ University of Pretoria, South Africa
   <img src="/projects/fieldwork/phokeng/boek2.JPG" style="width:230px; margin-right:20px;">
   <img src="/projects/fieldwork/phokeng/boek3.JPG" style="width:230px; margin-right:20px;">
   <img src="/projects/fieldwork/phokeng/boek4.jpg" style="width:150px; margin-right:20px;">
+  <img src="/projects/fieldwork/phokeng/boek5.jpeg" style="width:150px; margin-right:20px;">
 </div>
 <!-- ### Project Articles -->
 <!--[📄 KwaZulu-Natal Branch Newsletter](projects/fieldwork/umbeli_belli/kznnewsletter.pdf)-->

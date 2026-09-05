@@ -20,7 +20,31 @@ title: "Projects"
 
   <a class="project-card" href="/projects/research/phd/">
     <img src="/images/cdbljmu.jpg" class="project-cover">
-    <div class="project-title">Clandestine Grave Location</div>
+    <div class="project-title">Clandestine Grave Location <br>
+    <i>PhD - LJMU</i>
+    </div>
+  </a>
+  
+  <a class="project-card" href="/projects/research/ma/">
+    <img src="/images/giza1 western cemetery .jpg" class="project-cover">
+    <div class="project-title"> Royal and elite burial equipment from the Fourth Dynasty Western Cemetery, Giza <br>
+    <i>MA - UCL</i>
+    </div>
+  </a>
+  
+  <a class="project-card" href="/projects/research/phys_anth/">
+    <img src="/images/lancmine.JPG" class="project-cover">
+    <div class="project-title"> Bioarchaeological analysis of skeletal remains from Lancaster Mine <br>
+    <i> BSc (Hons) - UP </i>
+    </div>
+    
+   <a class="project-card" href="/projects/research/arch_hons/">
+    <img src="/images/Masebe Berge.jpg" class="project-cover">
+    <div class="project-title"> Archaeological investigation in the Masebe Nature Reserve <br>
+    <i> BA (Hons) - UP </i>
+    </div>   
+    
+    
   </a>
 
 </div>
@@ -52,7 +76,7 @@ title: "Projects"
   </a>
 
   <a class="project-card" href="/projects/fieldwork/lephalale/">
-    <img src="/images/lephalale_cover.jpg" class="project-cover">
+    <img src="/images/lep1.jpeg" class="project-cover">
     <div class="project-title">Archaeology Field School in Lephalale</div>
   </a>
 

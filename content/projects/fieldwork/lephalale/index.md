@@ -12,6 +12,11 @@ University of Pretoria, South Africa
 ### Site Description
 Iron age sites located in Lephelale in the Limpopo Province of South Africa.
 
+<div style="display:flex; justify-content:center;">
+  <img src="/projects/fieldwork/lephalale/lep1.jpeg" 
+       style="width:500px;">
+</div>
+
 ### My Role
 **Student Field Assistant**  
 - Field assistance in CRM excavation: Supported Digby Wells Environmental in excavating and surveying Iron Age sites on Boikarabelo Farm.

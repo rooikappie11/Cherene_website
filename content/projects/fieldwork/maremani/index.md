@@ -29,6 +29,8 @@ Middle Iron Age site excavations at the Maremani Nature Reserve in the Limpopo P
 <img src="/projects/fieldwork/maremani/mar3.jpg" style="width:300px; margin-right:20px;">
 <img src="/projects/fieldwork/maremani/mar4.jpg" style="width:300px; margin-right:20px;">
 <img src="/projects/fieldwork/maremani/mar5.jpg" style="width:300px; margin-right:20px;">
+<img src="/projects/fieldwork/maremani/mar7.jpg" style="width:300px; margin-right:20px;">
+<img src="/projects/fieldwork/maremani/mar8.jpeg" style="width:300px; margin-right:20px;">
 
 <!-- ### Project Articles -->
 <!--[📄 KwaZulu-Natal Branch Newsletter](projects/fieldwork/umbeli_belli/kznnewsletter.pdf) -->
