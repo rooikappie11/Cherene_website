@@ -3,7 +3,7 @@ title: "Maremani Nature Reserve Excavation"
 ---
 
 ## Project organisers
-Dr Xander Antonites
+[Dr Xander Antonites](https://orcid.org/0000-0001-8831-9638)
 University of Pretoria, South Africa
 
 ### Fieldwork dates

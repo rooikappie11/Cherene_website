@@ -3,7 +3,7 @@ title: "Umbelli Beli Middle Stone Age Excavation"
 ---
 
 ## Project organisers
-Prof. Nicholas Conrad and Dr. Gregor Badar 
+[Prof. Nicholas Conard](https://orcid.org/0000-0002-4633-0385) and [Dr. Gregor Badar](https://orcid.org/0000-0003-0621-9209) 
 University of Tübingen in Germany
 
 

@@ -3,7 +3,7 @@ title: "Archaeology Field School in Lephalale"
 ---
 
 ## Project organisers
-Dr Ceri Ashley
+[Dr Ceri Ashley](https://orcid.org/0000-0002-1243-3183)
 University of Pretoria, South Africa
 
 ### Fieldwork dates

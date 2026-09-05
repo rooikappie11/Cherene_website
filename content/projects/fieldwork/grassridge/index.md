@@ -3,7 +3,7 @@ title: "Grassridge Archaeological and Palaeo-environmental Project"
 ---
 
 ## Project organisers
-Dr Benjamin Collins and Dr. Christopher Ames 
+[Dr Benjamin Collins](https://umanitoba.academia.edu/BenCollins) and [Dr. Christopher Ames](https://orcid.org/0000-0001-8754-2512)
 
 ### Fieldwork dates
 2015 & 2016
