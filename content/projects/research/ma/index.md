@@ -31,7 +31,6 @@ The changes observed in the Fourth Dynasty architecture, decoration and burial e
 <img src="/projects/research/ma/ma4.jpg" style="width:300px; margin-right:20px;"> 
 <img src="/projects/research/ma/ma9.jpg" style="width:300px; margin-right:20px;"> 
 <img src="/projects/research/ma/ma5.jpg" style="width:300px; margin-right:20px;"> 
-<img src="/projects/research/ma/ma6.jpg" style="width:300px; margin-right:20px;"> 
 <img src="/projects/research/ma/ma7.jpg" style="width:300px; margin-right:20px;"> 
 <img src="/projects/research/ma/ma8.jpg" style="width:300px; margin-right:20px;"> 
 <img src="/projects/research/ma/ma10.jpg" style="width:300px; margin-right:20px;"> 
