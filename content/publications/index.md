@@ -7,6 +7,7 @@ date: "2026-06-10"
 <div style="font-size: 0.85rem; line-height: 1.3; margin-top: 0;">
   <ul style="list-style-type: none; padding-left: 0; margin-top: 0;">
     <li>- <a href="#journal-publications">Journal Publications</a></li>
+    <li>- <a href="#abstracts">Abstracts</a></li>
     <li>- <a href="#online-science-communication-articles">Online Science Communication Articles</a></li>
     <li>- <a href="#technical-reports">Technical Reports</a></li>
   </ul>
@@ -83,6 +84,45 @@ date: "2026-06-10"
       An archaeological investigation in the Masebe Nature Reserve, Limpopo Province.<br>
     </a>
   <em>The Digging Stick, 31</em>(1), 9–11.
+  </div>
+</div>
+
+## Abstracts
+
+<!-- Abstract 1 -->
+<div style="display: flex; align-items: flex-start; margin-bottom: 25px;">
+    <div>
+    <strong> Walker-Williams,E., Edwards,L., de Bruyn, C., and Aikodon, N. (2026).</strong><br>
+    <a href="https://openjournals.ljmu.ac.uk/studentexp/article/view/3801" target="_blank">
+      Making Your Research Matter: Policy and Practice Engagement for Doctoral Researchers.
+    </a><br>
+    <em>The Learning Exchange </em>
+  </div>
+</div>
+
+<!-- Abstract 2 -->
+<div style="display: flex; align-items: flex-start; margin-bottom: 25px;">
+    <div>
+    <strong> De Bruyn, C.and Meyer, A. (2018).</strong><br>
+    <a href="https://doi.org/10.1002/ca.23046" target="_blank">
+      A bioarchaeological analysis of historic human skeletal remains recovered from the Lancaster Mine premises, Witwatersrand.
+    </a><br>
+    <em>A Selection of Abstracts Presented at the 44th Annual Conference of the Anatomical Society of Southern Africa (ASSA), May 8–11, 2016, 
+    Bloem Spa Hotel and Conference Centre, Bloemfontein, Free State, South Africa 
+    Clinical Anatomy, 31:E11-E24. </em>
+  </div>
+</div>
+
+<!-- Abstract 3 -->
+<div style="display: flex; align-items: flex-start; margin-bottom: 25px;">
+    <div>
+    <strong> De Bruyn, C., Nienaber, W.C., Meyer, A. (2018).</strong><br>
+    <a href="https://doi.org/10.1002/ca.23041" target="_blank">
+      Reconstructing the past: an analysis of inadvertently discovered skeletal remains and archaeological material from the Soutpansberg region.
+    </a><br>
+    <em>A selection of abstracts presented at the 43rd annual conference of the anatomical society of Southern Africa (ASSA),
+    9–13 May 2015, Khaya iBHUBESI Conference Venue, Parys, Free State, South Africa. 
+    Clinical Anatomy, 31: E1-E10. </em>
   </div>
 </div>
 

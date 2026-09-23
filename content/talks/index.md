@@ -18,6 +18,10 @@ date: "2026-06-10"
 
 <div style="line-height: 1.5; margin-top: 8px;">
 
+- **The Fast and the Shallow: Drone images for clandestine grave location**  
+  *[Computer Vision in Archaeology Training School](https://arup-cas.github.io/atrium-school-ml/), Institute of Archaeology, Czech Academy of Sciences, Brno, Czech Republic*
+  *Funded through the ATRIUM Project's Transnational Access (TNA) scheme, 15 September 2026*
+
 - **Tracking Microbial Change in Grave Soils: Preliminary findings from a longitudinal study at AFTER**  
   *Flash Talk, Microbiome Research Day hosted by the Microbiome Innovation Centre, University of Liverpool, 29 June 2026*
 
@@ -26,53 +30,62 @@ date: "2026-06-10"
   
 - **Eye in the Sky: Drones on the trail of the missing**  
   *FameLab UK Final, 5 June 2026*
+ 
+  <div style="width: 300px; border: 1px solid #ddd; border-radius: 6px; overflow: hidden;">
+    <a href="https://youtu.be/XMyLy72ZaX8?si=kF3loyedKni4VhhG" target="_blank">
+    <img src="https://img.youtube.com/vi/XMyLy72ZaX8/hqdefault.jpg" style="width: 100%; display: block;">
+    </a>
+    <div style="padding: 10px;">
+      <a href="https://youtu.be/XMyLy72ZaX8?si=kF3loyedKni4VhhG" target="_blank">Watch on YouTube</a>
+    </div>
+  </div>
   
-- **[Computer vision for locating clandestine burial sites using UAV-image data](./computer-vision-and-drones/)** 
+- **Computer vision for locating clandestine burial sites using UAV-image data** 
   *School of Pharmacy and Biomolecular Science Postgraduate Research Day. Liverpool, UK. 28 May 2026* [Programme](/talks/pgrexpress.pdf) 
   
-- **[An Eye for Detail: Finessing my FameLab UK talk on finding forensic graves](./talks/an-eye-for-detail/)**  
+- **An Eye for Detail: Finessing my FameLab UK talk on finding forensic graves**  
   *LJMU Doctoral Academy PGR Festival, 19 May 2026.*
 
-- **[Eye in the Sky: Drones on the trail of the missing](./talks/eye-in-the-sky/)**  
+- **Eye in the Sky: Drones on the trail of the missing**  
   *FameLab NW, 24 March 2026 (NW Winner)*
 
-- **[Soil-ving the Case: Using microbes to find hidden graves](./talks/soil-ving-the-case/)**  
+- **Soil-ving the Case: Using microbes to find hidden graves**  
   *3MT HITS Faculty Finalist & People’s Choice Winner, LJMU, 2026*
 
-- **[Clandestine grave detection and time since intervals – Where do we stand?](./talks/bahid-webinar/)**  
+- **Clandestine grave detection and time since intervals – Where do we stand?**  
   *BAHID Webinar, 14 January 2026*
 
-- **[Justice from the ground up](./talks/justice-from-the-ground-up/)**  
+- **Justice from the ground up**  
   *LJMU Research Knowledge Exchange Conference, 15 December 2025*
 
-- **[More or less? A mini study comparing soil and forensic DNA extraction kits using variable soil inputs](./talks/more-or-less/)**  
+- **More or less? A mini study comparing soil and forensic DNA extraction kits using variable soil inputs**  
   *School of Pharmacy & Biomolecular Science Research Day, 30 June 2025 (Winner).*[Programme](/talks/pgrbazaar.pdf) 
 
-- **[Student research excellence: something to ASPIRE to](./talks/aspire/)**  
+- **Student research excellence: something to ASPIRE to**  
   *PGR Research Day, 30 June 2025*
 
-- **[Bones, Drones & Microbes](./talks/bones-drones-microbes/)**  
+- **Bones, Drones & Microbes**  
   *Research Roasters Outreach Day, 5 November 2026*
 
-- **[Finding the Missing](./talks/finding-the-missing/)**  
+- **Finding the Missing**  
   *British Science Festival Liverpool X Research Roasters, 10 September 2025*
 
-- **[Graveyard Shift](./talks/graveyard-shift/)**  
+- **Graveyard Shift**  
   *Merseyside Archaeology Society Lecture, 20 Feb 2025*
 
-- **[Grave Matters](./talks/grave-matters/)**  
+- **Grave Matters**  
   *BioGrad, 10 May 2026*
 
-- **[The Hidden Forensics (Cape Town)](./talks/hidden-forensics-uct/)**  
+- **The Hidden Forensics (Cape Town)**  
   *University of Cape Town, 27 June 2024*
 
-- **[The Hidden Forensics (Online)](./talks/hidden-forensics-online/)**  
+- **The Hidden Forensics (Online)**  
   *UCT MS Teams Seminar, 26 August 2024*
 
-- **[Lancaster Mine skeletal analysis](./talks/lancaster-mine/)**  
-  *SASA Student Development Workshop, 2015*
+- **Lancaster Mine skeletal analysis**  
+  *SAASC Student Development Workshop, 2015*
 
-- **[Living on a Foothill](./talks/living-on-a-foothill/)**  
+- **Living on a Foothill**  
   *ASAPA Student Development Workshop, 2013*
 
 </div>
