@@ -98,22 +98,22 @@ date: "2026-06-10"
 - **Tracking Microbial Change in Grave Soils: Preliminary findings from a longitudinal study at AFTER**  
   *Flash Talk, Microbiome Research Day hosted by the Microbiome Innovation Centre, University of Liverpool, 29 June 2026 (3rd Place)*
 
-- **[GRAVES: A framework for forensic research](./posters/graves-framework/)**  
-  *MDVI COST Action, IAFS Bulgaria, 2026*
+- **[GRAVES: A framework for forensic research in victim identification and location]**  
+  *[MDVI COST Action, IAFS Bulgaria](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.cic.bg/uploads/1997d434c3484f84aa8b662facc9daffe4c8c7e2.pdf)), 2026*
 
-- **[From decay to discovery: The necrobiome's role in clandestine grave detection](./posters/decay-to-discovery/)**  
+- **From decay to discovery: The necrobiome's role in clandestine grave detection**  
   *AMI MMEG, 16 December 2024*
 
-- **[Unseen connections: Multidisciplinary approaches to human remains detection](./posters/unseen-connections/)**  
+- **Unseen connections: Multidisciplinary approaches to human remains detection **  
   *BAFA Winter Conference, 2024*
 
-- **[Bioarchaeological analysis of historic skeletal remains](./posters/lancaster-bioarchaeology/)**  
+- **Bioarchaeological analysis of historic skeletal remains**  
   *ASSA Conference, Bloemfontein, 2014*
 
-- **[Reconstructing the past: Skeletal remains from Soutpansberg](./posters/soutpansberg-reconstruction/)**  
+- **Reconstructing the past: Skeletal remains from Soutpansberg**  
   *DST‑NRF Intern Research Day, 2015*
 
-- **[Living on a foothill: Archaeological investigations in Masebe Nature Reserve](./posters/living-on-a-foothill/)**  
+- **Living on a foothill: Archaeological investigations in Masebe Nature Reserve**  
   *ASAPA Biennial Conference, Botswana, 2013*
 
 </div>

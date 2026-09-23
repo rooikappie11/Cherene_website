@@ -212,6 +212,8 @@ _Recipients_: C. de Bruyn
 
 ## Courses & Training
 ## 2026
+- **[Computer Vision in Archaeology Training School](https://arup-cas.github.io/atrium-school-ml/)**, Institute of Archaeology, Czech Academy of Sciences, Brno, Czech Republic.
+Funded through the ATRIUM Project's Transnational Access (TNA) scheme _(14-18 September 2026)_
 - **Supporting Learning Certificate**, SEDA
 - **A2 Certificate of Competency UAV Remote Pilot Certificate (10 hours)**, UAVHub
 - **FameLab Science Communication Masterclass and Media Training**, Cheltenham _(1–2 May 2026)_
