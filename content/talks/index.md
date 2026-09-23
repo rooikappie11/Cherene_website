@@ -96,25 +96,28 @@ date: "2026-06-10"
 <div style="line-height: 1.5; margin-top: 8px;">
 
 - **Tracking Microbial Change in Grave Soils: Preliminary findings from a longitudinal study at AFTER**  
-  *Flash Talk, Microbiome Research Day hosted by the Microbiome Innovation Centre, University of Liverpool, 29 June 2026 (3rd Place)*
+  *Flash Talk, Microbiome Research Day hosted by the Microbiome Innovation Centre, University of Liverpool (UK), 29 June 2026 (3rd Place)*
 
-- **[GRAVES: A framework for forensic research in victim identification and location]**  
-  *[MDVI COST Action, IAFS Bulgaria](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.cic.bg/uploads/1997d434c3484f84aa8b662facc9daffe4c8c7e2.pdf)), 2026*
+- **GRAVES: A framework for forensic research in victim identification and location**  
+  *[MDVI COST Action, IAFS Bulgaria](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.cic.bg/uploads/1997d434c3484f84aa8b662facc9daffe4c8c7e2.pdf), 2026*
 
 - **From decay to discovery: The necrobiome's role in clandestine grave detection**  
-  *AMI MMEG, 16 December 2024*
+  *AMI MMEG Southampton (UK), 16 December 2024*
 
-- **Unseen connections: Multidisciplinary approaches to human remains detection **  
-  *BAFA Winter Conference, 2024*
+- **Unseen connections: Multidisciplinary approaches to human remains detection**  
+  *BAFA Winter Conference OXford (UK), 2024*
 
-- **Bioarchaeological analysis of historic skeletal remains**  
-  *ASSA Conference, Bloemfontein, 2014*
+- **A bioarchaeological analysis of historic human skeletal remains recovered from the Lancaster Mine premises, Witwatersrand**  
+  *ASSA Conference Bloemfontein (South Africa), 2016*
+  
+- **Reconstructing the past: an analysis of inadvertently discovered skeletal remains and archaeological material from the Soutpansberg region.**  
+  *ASSA Conference Parys, (South Africa), 2014*
 
-- **Reconstructing the past: Skeletal remains from Soutpansberg**  
-  *DST‑NRF Intern Research Day, 2015*
+- **Reconstructing the past: an analysis of inadvertently discovered skeletal remains and archaeological material from the Soutpansberg region.**  
+  *DST‑NRF Intern Research Day, Pretoria (South Africa), 2015*
 
 - **Living on a foothill: Archaeological investigations in Masebe Nature Reserve**  
-  *ASAPA Biennial Conference, Botswana, 2013*
+  *ASAPA Biennial Conference Gabarone (Botswana), 2013*
 
 </div>
 
