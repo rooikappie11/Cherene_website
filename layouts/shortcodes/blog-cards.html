@@ -1,0 +1,86 @@
+<div style="max-width: 1000px; margin: 40px auto 0 auto; padding: 0 16px; font-family: Helvetica, Arial, sans-serif;">
+  
+  <!-- CSS for Responsive 2-Column Grid & Hover Effects -->
+  <style>
+    .blog-grid {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 40px 32px;
+    }
+
+    .blog-card {
+      display: block;
+      text-decoration: none;
+      color: inherit;
+      padding: 16px;
+      border-radius: 8px;
+      border-bottom: 1px solid #e5e5e5;
+      transition: background-color 0.2s ease, transform 0.2s ease, box-shadow 0.2s ease;
+    }
+
+    /* Entire block hover effect */
+    .blog-card:hover {
+      background-color: rgba(0, 79, 82, 0.04);
+      transform: translateY(-2px);
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+    }
+
+    /* Highlight title in green on card hover */
+    .blog-card:hover .blog-card-title {
+      color: #004f52 !important;
+    }
+
+    @media (max-width: 768px) {
+      .blog-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+
+  <div class="blog-grid">
+    {{ range where .Site.RegularPages "Section" "blog" }}
+      <a href="{{ .RelPermalink }}" class="blog-card">
+        <article style="display: flex; flex-direction: column; justify-content: space-between; height: 100%;">
+          <div>
+            <!-- Category / Section Tags (Pulls up to 2 tags) -->
+            <div style="text-transform: uppercase; font-size: 11px; font-weight: 700; letter-spacing: 1.2px; color: #004f52; margin-bottom: 8px;">
+              {{ if .Params.tags }}
+                {{ range $index, $tag := (first 2 .Params.tags) }}
+                  {{ if gt $index 0 }} &nbsp;•&nbsp; {{ end }}{{ $tag }}
+                {{ end }}
+              {{ else }}
+                Blog
+              {{ end }}
+            </div>
+
+            <!-- Featured Image (Optional) -->
+            {{ if .Params.image }}
+              <div style="margin-bottom: 16px;">
+                <img src="{{ .Params.image }}" alt="{{ .Title }}" style="width: 100%; height: 200px; object-fit: cover; border-radius: 6px;">
+              </div>
+            {{ end }}
+
+            <!-- Title -->
+            <h2 class="blog-card-title" style="font-size: 18px; font-weight: 700; line-height: 1.3; margin: 0 0 8px 0; color: #1a1a1a; transition: color 0.2s ease;">
+              {{ .Title }}
+            </h2>
+
+            <!-- Meta info: Date & Read Time -->
+            <div style="font-size: 13px; color: #757575; margin-bottom: 16px;">
+              {{ .Date.Format "January 2, 2006" }} &nbsp;•&nbsp; {{ .ReadingTime }} min read
+            </div>
+
+            <!-- Description / Summary -->
+            <div style="font-size: 12px; line-height: 1.55; color: #4a4a4a; margin-bottom: 8px;">
+              {{ if .Params.description }}
+                {{ .Params.description }}
+              {{ else }}
+                {{ .Summary | plainify | truncate 160 }}
+              {{ end }}
+            </div>
+          </div>
+        </article>
+      </a>
+    {{ end }}
+  </div>
+</div>

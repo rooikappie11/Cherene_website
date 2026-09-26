@@ -28,3 +28,5 @@ title: "Blog"
     </div>
   </div>
 </div>
+
+{{< blog-cards >}}

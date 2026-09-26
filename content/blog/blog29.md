@@ -8,9 +8,6 @@ categories:
   - Research Life
 
 tags:
-  - PhD
-  - Postgraduate research
-  - Academic resilience
   - Research mindset
   - Reflection
 ---
