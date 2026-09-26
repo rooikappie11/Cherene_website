@@ -61,7 +61,7 @@ body, body * {
 }
 
 .profile-image {
-  flex: 0 0 350px;
+  flex: 0 0 550px;
 }
 
 @media (max-width: 900px) {
@@ -158,7 +158,7 @@ body, body * {
           Meet Cherene de Bruyn
         </h3>
         <h2 style="margin: 0; color: #3C1414; font-size:25px; font-weight: 700;">
-          Archaeologist • Grave Scientist • Research Resilience Writer
+          Archaeologist - Grave Scientist - Research Resilience Writer
         </h2>
         <h3 style="font-weight: normal; font-size:20px; color: #1a1a1a; margin-top: 10px; line-height: 1.35;">
           Cherene is an international PhD researcher. Her current project focuses on clandestine grave location through UAV‑based remote sensing and soil microbiome analysis. 
@@ -166,8 +166,8 @@ body, body * {
         </h3>
       </div>
 
-      <div class="profile-image">
-        <img src="/images/cdbheadshot.png" alt="Cherene de Bruyn Headshot" style="width: 100%; border-radius: 10px; object-fit: cover;">
+  <div class="profile-image">
+      <img src="/images/cdbfield1.jpg" alt="Cherene de Bruyn Headshot" style="width: 1500px; height: auto; border-radius: 5px; object-fit: cover;">
       </div>
     </div>
   </div>

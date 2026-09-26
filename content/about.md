@@ -5,7 +5,7 @@ title: About
 
 <!-- IMAGE -->
 <div style="text-align: center;">
-  <img src="/images/IMG_20201030_133120.jpg"
+  <img src="/images/image2.png"
        style="width: 420px; border-radius: 0; mix-blend-mode: multiply; display: inline-block;">
 </div>
 
