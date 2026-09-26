@@ -12,7 +12,7 @@ tags:
   - Reflection
 ---
 
-#### The PhD as a quest, not a journey, shaped by obstacles, discoveries, and courage
+*Reflecting on what BruynChild has taught me --- and where we go next*
 
 <div style="
   display: flex;

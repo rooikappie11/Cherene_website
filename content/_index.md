@@ -270,5 +270,13 @@ body, body * {
         <b>Research Hive</b> <i>(Aug 2025)</i>
       </a>
     </div>
+    
+    <div class="pub-tile">
+      <img src="/images/productive.png" class="pub-cover" alt="Research Hive Article">
+      <a href="https://research-hive.com/2024/09/03/starting-strong-productivity-tips-for-the-first-6-months-of-your-phd/" target="_blank" class="pub-title">
+        Starting Strong: Productivity Tips for the First 6 Months of Your PhD <br>
+        <b>Research Hive</b> <i>(Sept 2024)</i>
+      </a>
+    </div>
   </div>
 </div>

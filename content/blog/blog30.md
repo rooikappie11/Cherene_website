@@ -15,7 +15,7 @@ tags:
   - Research mindset
 ---
 
-#### The PhD as a quest, not a journey, shaped by obstacles, discoveries, and courage
+*The PhD as a quest, not a journey, shaped by obstacles, discoveries, and courage*
 
 <div style="
   display: flex;
