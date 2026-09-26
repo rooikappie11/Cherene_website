@@ -238,20 +238,16 @@ body, body * {
 <div class="research-section" style="font-family: Helvetica !important; font-size:16px;">
 
   <p class="inline-diamonds" style="margin-top:0;">
-    <span class="diamond"></span>
-    Burial archaeology
-    <span class="diamond"></span>
-    Post‑mortem body treatment
-    <span class="diamond"></span>
-    Taphonomy
-    <span class="diamond"></span>
-    Ecological and material signatures of funerary activity
+    <span class="diamond"></span>  Bioarchaeology
+    <span class="diamond"></span>  Burial archaeology
+    <span class="diamond"></span>  Post‑mortem body treatment
+    <span class="diamond"></span>  Taphonomy <br>
+    <span class="diamond"></span> Remote Sensing
+    <span class="diamond"></span> Ecological and material signatures of human activity
+    <span class="diamond"></span> Forensic Archaeology
   </p>
 
-  <p class="research-subtext">
-    I investigate these processes through skeletal materials, soil microbiomes, 
-    and remote‑sensing datasets (GIS, GPR, UAV imaging).
-  </p>
+ 
 
 </div>
 
@@ -293,6 +289,9 @@ body, body * {
   </a>
   <a href="https://scholar.google.com/citations?user=lJ8DcqwAAAAJ&hl=en" target="_blank">
     <img src="/images/Google_Scholar_logo.svg.png" style="width: 32px; margin-right: 10px;">
+  </a>
+    <a href="https://ljmu.academia.edu/CherenedeBruyn" target="_blank">
+    <img src="/images/academialogo.png" style="width: 32px; margin-right: 10px;">
   </a>
   <a href="https://profiles.ljmu.ac.uk/19117-cherene-de-bruyn" target="_blank">
     <img src="/images/ljmu.png" style="width: 32px; margin-right: 10px;">
