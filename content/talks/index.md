@@ -9,8 +9,7 @@ date: "2026-06-10"
   <ul style="list-style-type: none; padding-left: 0; margin-top: 0;">
     <li>- <a href="#oral-presentations--talks">Oral Presentations & Talks</a></li>
     <li>- <a href="#poster-presentations">Poster Presentations</a></li>
-    <li>- <a href="#interviews">Interviews</a></li>
-    <li>- <a href="#online-workshops">Online Workshops</a></li>
+    <li>- <a href="#Science Communication and Outreach">Science Communication and Outreach</a></li>
   </ul>
 </div>
 
@@ -27,18 +26,6 @@ date: "2026-06-10"
 
 - [**Making your research matter: policy and practice engagement for doctoral researchers**](https://www.ljmu.ac.uk/staff/students-at-the-heart/2026-conference/programme)  
   *LJMU Students at the Heart Conference, 16-17 June 2026*
-  
-- **Eye in the Sky: Drones on the trail of the missing**  
-  *FameLab UK Final, 5 June 2026*
- 
-  <div style="width: 300px; border: 1px solid #ddd; border-radius: 6px; overflow: hidden;">
-    <a href="https://youtu.be/XMyLy72ZaX8?si=kF3loyedKni4VhhG" target="_blank">
-    <img src="https://img.youtube.com/vi/XMyLy72ZaX8/hqdefault.jpg" style="width: 100%; display: block;">
-    </a>
-    <div style="padding: 10px;">
-      <a href="https://youtu.be/XMyLy72ZaX8?si=kF3loyedKni4VhhG" target="_blank">Watch on YouTube</a>
-    </div>
-  </div>
   
 - **Computer vision for locating clandestine burial sites using UAV-image data** 
   *School of Pharmacy and Biomolecular Science Postgraduate Research Day. Liverpool, UK. 28 May 2026* [Programme](/talks/pgrexpress.pdf) 
@@ -121,17 +108,38 @@ date: "2026-06-10"
 
 </div>
 
-## Interviews
+## Science Communication and Outreach
 <div style="line-height: 1.5; margin-top: 8px;">
+
+<!-- Dame  Sue Black  -->
+  <div style="width: 300px; border: 1px solid #ddd; border-radius: 6px; overflow: hidden;">
+    <a href="https://www.youtube.com/watch?v=1QguPbh13yc&t=4s" target="_blank">
+      <img src=https://img.youtube.com/vi/1QguPbh13yc/hqdefault.jpg style="width: 100%; display: block;">
+    </a>
+    <div style="padding: 10px;">
+      <strong>Cherene de Bruyn & Thomas Dickinson – Professor Lady Sue Black interview with LJMU's Face Lab</strong><br>
+      <em>LJMU Forensic Research Institute, 1 October 2026</em><br>
+      <a href="https://www.youtube.com/watch?v=1QguPbh13yc&t=4s" target="_blank">Watch on YouTube</a>
+    </div>
+  </div>
+
+<!-- Famelab 2026 -->
+  <div style="width: 300px; border: 1px solid #ddd; border-radius: 6px; overflow: hidden;">
+    <a href="https://youtu.be/XMyLy72ZaX8?si=kF3loyedKni4VhhG" target="_blank">
+      <img src="https://img.youtube.com/vi/XMyLy72ZaX8/hqdefault.jpg" style="width: 100%; display: block;">
+    </a>
+    <div style="padding: 10px;">
+      <strong>Cherene de Bruyn – Eye in the Sky: Drones on the trail of the missing</strong><br>
+      <em>FameLab UK Final, 5 June 2026</em><br>
+      <a href="https://youtu.be/XMyLy72ZaX8?si=kF3loyedKni4VhhG" target="_blank">Watch on YouTube</a>
+    </div>
+  </div>
+
+
 
 **Throw me in a ditch: An Archaeology Podcast — “The Past but Now”**  
   *Cherene de Bruyn with Annabell Orlando, 4 September 2023*  
   [Listen on Spotify](https://open.spotify.com/episode/5SNugy7m3iy1wZuNtTuySB?si=ed2fbb82b7cf4455)
-
-</div>
-
-## Online Workshops
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
   <!-- Leomile Mafutsanyana -->
   <div style="width: 300px; border: 1px solid #ddd; border-radius: 6px; overflow: hidden;">

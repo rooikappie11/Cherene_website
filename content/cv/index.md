@@ -108,22 +108,18 @@ Randburg, South Africa
 
 ## Leadership, Service & Volunteering
 - **Postgraduate Researcher Research Conference Organising Committee** School of Pharmacy & Biomolecular Sciences, Liverpool John Moores University _(2025–2026)_  
+  - **Postgraduate Researcher Research Express Conference**, _(28 May 2026)_ 
+  - **Postgraduate Researcher Research Bazaar Conference**, _(30 June 2025)_  
 - **Postgraduate Researcher Representative**, School of Pharmacy & Biomolecular Sciences Liverpool John Moores University _(2024-Present)_ 
 - **Journal Manager, Editor & Co-Founder**, LJMU [ASPIRE](https://openjournals.ljmu.ac.uk/LJMU-ASPIRE) PGR-Journal _(2025–present)_ 
 - **Council Member**, Merseyside Archaeology Society _(2025–present)_    
 - **Social Media & Events Coordinator**, Southern African Archaeology Student Council _(2017–2021)_  
-
-## Student Events Hosted 
-- **Postgraduate Researcher Research Express Conference**, School of Pharmacy & Biomolecular Sciences, Liverpool John Moores University _(28 May 2026)_  
-- **Postgraduate Researcher Research Bazaar Conference** School of Pharmacy & Biomolecular Sciences, Liverpool John Moores University _(30 June 2025)_  
-- [**Online Student Development Conference**](https://www.saassarchaeology.com/past-events), Southern African Archaeology Student Council & Palaeontological Scientific Trust (PAST) _(June 2021)_    
-- [**Student Development Workshop in Lesotho**](https://www.saassarchaeology.com/past-events), Southern African Archaeology Student Council & Palaeontological Scientific Trust (PAST) _(5-11 December 2018)_   
-
-## Volunteering 
-- **World Archaeology Festival** UCL Institute of Archaeology Archaeology Day _(2016)_  
-- **Film Festival** Royal Anthropological Institute _(2016)_  
+  - [**Online Student Development Conference**](https://www.saassarchaeology.com/past-events), Southern African Archaeology Student Council & Palaeontological Scientific Trust (PAST) _(June 2021)_    
+  - [**Student Development Workshop in Lesotho**](https://www.saassarchaeology.com/past-events), Southern African Archaeology Student Council & Palaeontological Scientific Trust (PAST) _(5-11 December 2018)_   
 - **Current Archaeology** LIVE _(2017)_   
 - **Member events** Petrie Museum of Egyptian Archaeology _(2017)_  
+- **World Archaeology Festival** UCL Institute of Archaeology Archaeology Day _(2016)_  
+- **Film Festival** Royal Anthropological Institute _(2016)_  
 
 ## Professional Service
 - **Reviewer**, *Science & Justice* (Elsevier) _(2026)_  
