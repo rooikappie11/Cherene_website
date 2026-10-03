@@ -9,7 +9,7 @@ date: "2026-06-10"
   <ul style="list-style-type: none; padding-left: 0; margin-top: 0;">
     <li>- <a href="#oral-presentations--talks">Oral Presentations & Talks</a></li>
     <li>- <a href="#poster-presentations">Poster Presentations</a></li>
-    <li>- <a href="#Science Communication and Outreach">Science Communication and Outreach</a></li>
+    <li>- <a href="#science-communication-and-outreach">Science Communication and Outreach</a></li>
   </ul>
 </div>
 
