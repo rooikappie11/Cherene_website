@@ -238,7 +238,6 @@ body, body * {
         <b> ATRIUM TNA Blog</b> <i>(October 2026)</i>
       </a>
     </div>
-
   <div class="pub-grid">
     <div class="pub-tile">
       <img src="/images/thenodestudent.jpg" class="pub-cover" alt="The Node Article">
@@ -247,7 +246,6 @@ body, body * {
         <b>The Node</b> <i>(Sept 2026)</i>
       </a>
     </div>
-
     <div class="pub-tile">
       <img src="/images/kusozubody.png" class="pub-cover" alt="Research Hive Article">
       <a href="https://research-hive.com/2026/07/02/the-buried-truth-about-body-farms-and-scientific-lessons-from-decay/" target="_blank" class="pub-title">
@@ -255,7 +253,6 @@ body, body * {
         <b>Research Hive</b> <i>(July 2026)</i>
       </a>
     </div>
-
     <div class="pub-tile">
       <img src="/images/humanbridges2.png" class="pub-cover" alt="Human Bridges Article">
       <a href="https://observatory.wiki/Parameters_of_Animal_Self-Medication_Behavior" target="_blank" class="pub-title">
@@ -263,7 +260,13 @@ body, body * {
         <b>Human Bridges</b> <i>(June 2026)</i>
       </a>
     </div>
-
+    <div class="pub-tile">
+      <img src="/images/AFHEA.png" class="pub-cover" alt="AFHEA_RH">
+      <a href="https://research-hive.com/2026/04/02/why-teaching-deserves-thought-the-case-for-associate-fellow-of-the-higher-education-academy-afhea/" target="_blank" class="pub-title">
+        Why Teaching Deserves Thought: The Case for AFHEA <br>
+        <b>Research Hive</b> <i>(April 2026)</i>
+      </a>
+    </div>
     <div class="pub-tile">
       <img src="/images/big_elephant.jpg" class="pub-cover" alt="Human Bridges Article">
       <a href="https://observatory.wiki/Parameters_of_Animal_Mortuary_Behavior" target="_blank" class="pub-title">
@@ -271,7 +274,6 @@ body, body * {
         <b>Human Bridges</b> <i>(Dec 2025)</i>
       </a>
     </div>
-
     <div class="pub-tile">
       <img src="/images/crucible.jpg" class="pub-cover" alt="Research Hive Article">
       <a href="https://research-hive.com/2025/08/26/the-phd-confirmation-process-is-not-a-hurdle-its-a-crucible/" target="_blank" class="pub-title">
@@ -279,8 +281,7 @@ body, body * {
         <b>Research Hive</b> <i>(Aug 2025)</i>
       </a>
     </div>
-    
-    <div class="pub-tile">
+        <div class="pub-tile">
       <img src="/images/productive.png" class="pub-cover" alt="Research Hive Article">
       <a href="https://research-hive.com/2024/09/03/starting-strong-productivity-tips-for-the-first-6-months-of-your-phd/" target="_blank" class="pub-title">
         Starting Strong: Productivity Tips for the First 6 Months of Your PhD <br>
