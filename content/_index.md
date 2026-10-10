@@ -232,6 +232,15 @@ body, body * {
 
   <div class="pub-grid">
     <div class="pub-tile">
+      <img src="/images/atriumblogcv.jpg" class="pub-cover" alt=" ATRIUM TNA Blog">
+      <a href="https://atrium-research.eu/blog/we-should-definitely-talk-about-brno-and-computer-vision/" target="_blank" class="pub-title">
+        We should definitely talk about Brno and Computer Vision <br>
+        <b> ATRIUM TNA Blog</b> <i>(October 2026)</i>
+      </a>
+    </div>
+
+  <div class="pub-grid">
+    <div class="pub-tile">
       <img src="/images/thenodestudent.jpg" class="pub-cover" alt="The Node Article">
       <a href="https://thenode.biologists.com/the-final-stretch-that-tests-every-phd-student/education/" target="_blank" class="pub-title">
         The final stretch that tests every PhD student <br>
