@@ -1,7 +1,7 @@
 ---
 title: "Chase the Science"
 date: "2026-10-12"
-description: "What Forensic Science Can Teach Every PhD Researcher"
+description: "What Forensic Science can teach every PhD student"
 image: "/blog/blog31.jpeg"
 
 categories:
@@ -14,7 +14,7 @@ tags:
   - Research mindset
 ---
 
-*What Forensic Science Can Teach Every PhD Researcher*
+*What Forensic Science can teach every PhD student*
 
 <div style="
   display: flex;
@@ -69,7 +69,7 @@ Pillar 3: Clear Communication
 
 These pillars are important because they provide the structure that steadies our credibility as scientists and experts. If one pillar were to crumble, our house would fall down, and rebuilding a fallen house, much like a reputation, is a difficult task.
 
-In a nutshell, as emerging 'good scientists, ' we can look at these pillars in the following way. Along with pursuing opportunities that will allow us to become better scientists, we should also focus on ensuring our foundation remains unshaken. That includes ensuring that in everything we do and everything we commit to, we stay reliable and we hold ourselves accountable (Pillar 1). Next, when we address our colleagues or the public, we need to make sure we are presenting the science in an informed way, backed by peer-reviewed research, and aware of our biases and assumptions so that we can remain objective and independent (Pillar 2). And as we move into the digital and possible virtual age, we need to spend time engaging so that we can develop clear communication and interpersonal skills. I think these are critical skills, which are becoming increasingly important for PhDs and Early Career Researchers. As good scientists, and by extension good communicators, it is our responsibility to ensure that regardless of who we communicate to, we use language that is inclusive and accessible (Pillar 3).
+In a nutshell, as emerging 'good scientists,' we can look at these pillars in the following way. Along with pursuing opportunities that will allow us to become better scientists, we should also focus on ensuring our foundation remains unshaken. That includes ensuring that in everything we do and everything we commit to, we stay reliable and we hold ourselves accountable (Pillar 1). Next, when we address our colleagues or the public, we need to make sure we are presenting the science in an informed way, backed by peer-reviewed research, and aware of our biases and assumptions so that we can remain objective and independent (Pillar 2). And as we move into the digital and possible virtual age, we need to spend time engaging so that we can develop clear communication and interpersonal skills. I think these are critical skills, which are becoming increasingly important for PhDs and Early Career Researchers. As good scientists, and by extension good communicators, it is our responsibility to ensure that regardless of who we communicate to, we use language that is inclusive and accessible (Pillar 3).
 
 Why the advice from Professor Lady Black resonates with me is that I can see how it is useful to students from all corners of the research curriculum. We all need to be reminded not to get too focused on chasing academic positions, professorships, or vanity awards and accolades. Instead, we should dedicate our time to pursue the things that really matter. Everything else will fall into place, not because of luck, but because we planned, prepared, and stayed resilient in our pursuit to become good at our science. This is also a principle the Computer Scientist and deep life expert, Dr Cal Newport, talks about in his book, So good they can't ignore you. Basically, it comes down to not following your passion or fictional ideals of science, but rather working on developing skills and abilities in your chosen field and becoming so good that you cannot be ignored. You don't have to pursue opportunities; instead, they will come to you.
 
