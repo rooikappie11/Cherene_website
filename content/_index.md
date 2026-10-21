@@ -198,8 +198,8 @@ body, body * {
       <span class="diamond"></span> Bioarchaeology
       <span class="diamond"></span> Burial archaeology
       <span class="diamond"></span> Post‑mortem body treatment
-      <span class="diamond"></span> Taphonomy <br>
-      <span class="diamond"></span> Remote Sensing
+      <span class="diamond"></span> Archaeothanatology <br>
+      <span class="diamond"></span> Remote Sensing & Geophysics
       <span class="diamond"></span> Ecological and material signatures of human activity
       <span class="diamond"></span> Forensic Archaeology
     </p>
