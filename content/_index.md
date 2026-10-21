@@ -200,7 +200,7 @@ body, body * {
       <span class="diamond"></span> Post‑mortem body treatment
       <span class="diamond"></span> Archaeothanatology <br>
       <span class="diamond"></span> Remote Sensing & Geophysics
-      <span class="diamond"></span> Ecological and material signatures of human activity
+      <span class="diamond"></span> Gravesoil Microbiomes
       <span class="diamond"></span> Forensic Archaeology
     </p>
   </div>
