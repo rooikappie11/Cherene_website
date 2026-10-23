@@ -3,7 +3,6 @@ title: ""
 markup: html
 ---
 
-
 <style>
 body, body * {
   font-family: Helvetica, Arial, sans-serif !important;
@@ -175,11 +174,10 @@ body, body * {
 </div>
 
 <!-- CHERENE THE ACADEMIC -->
-<div class="white-section">
-  <h2 style="margin-top: 0; margin-bottom: 10px; color: #004f52; font-size: 24px; display: flex; align-items: center; gap: 10px;">
+<h2 style="margin-top: 0; margin-bottom: 10px; color: #004f52; font-size: 45px; display: flex; align-items: center; gap: 10px; font-family: 'Dancing Script', cursive, sans-serif !important;">
     <img src="/images/academic.png" class="small-icon" alt="Academic Icon">
     Cherene the Academic
-  </h2>
+</h2>
 
   <h4 style="margin-bottom: 0; font-size: 16px;">
     Liverpool John Moores University
@@ -205,31 +203,27 @@ body, body * {
     </p>
   </div>
 
-  <div class="social-icons centred-line" style="margin-top: 20px;">
-    <a href="https://www.linkedin.com/in/cherenedebruyn/" target="_blank">
-      <img src="/images/LI-In-Bug.png" alt="LinkedIn" style="width: 32px; margin-right: 10px;">
-    </a>
-    <a href="https://orcid.org/0000-0002-2979-2289" target="_blank">
-      <img src="/images/ORCID_iD.svg.png" alt="ORCID" style="width: 32px; margin-right: 10px;">
-    </a>
-    <a href="https://scholar.google.com/citations?user=lJ8DcqwAAAAJ&hl=en" target="_blank">
-      <img src="/images/Google_Scholar_logo.svg.png" alt="Google Scholar" style="width: 32px; margin-right: 10px;">
-    </a>
-    <a href="https://ljmu.academia.edu/CherenedeBruyn" target="_blank">
-      <img src="/images/academialogo.png" alt="Academia" style="width: 32px; margin-right: 10px;">
-    </a>
-    <a href="https://profiles.ljmu.ac.uk/19117-cherene-de-bruyn" target="_blank">
-      <img src="/images/ljmu.png" alt="LJMU Profile" style="width: 32px; margin-right: 10px;">
-    </a>
-  </div>
+  <h3 style="margin-top: 0; margin-bottom: 10px; font-size: 30px; display: flex; align-items: center; gap: 10px; font-family: 'Dancing Script', cursive, sans-serif !important;">
+    Upcoming Talks
+</h3>
+  
+<div class="research-section" style="font-size:16px;">
+  <p class="inline-diamonds" style="margin-top:0; margin-bottom: 5px;">
+    <span class="circle"></span> 
+    <strong>The 79th American Academy Of Forensic Sciences (AAFS) Annual Scientific Conference, "Around the World and Beyond"</strong><br>
+    14–19 February 2027 <br>
+    Orlando, Florida, USA </p>
+      <ul style="margin-top: 0; padding-top: 0;">
+   <em> <li>Seasonal Soil Microbial Succession From Surface-Deposited Pigs in South Africa: Toward Postmortem Interval and Post-Depositional Interval Estimation Development</li><em>
+    <em><li>Unmanned Aerial Vehicle-Based Remote Sensing for Assessing Clandestine Grave Locations at a Natural Burial Ground in the United Kingdom</li><em>
+  </ul>
 </div>
 
 <!-- CHERENE THE WRITER -->
-<div class="white-section">
-  <h2 style="margin-top: 0; margin-bottom: 10px; color: #004f52; font-size: 24px; display: flex; align-items: center; gap: 10px;">
-    <img src="/images/writer.png" class="small-icon" alt="Writer Icon">
+<h2 style="margin-top: 0; margin-bottom: 10px; color: #004f52; font-size: 45px; display: flex; align-items: center; gap: 10px; font-family: 'Dancing Script', cursive, sans-serif !important;">
+    <img src="/images/academic.png" class="small-icon" alt="Academic Icon">
     Cherene the Writer
-  </h2>
+</h2>
 
   <div class="pub-grid">
     <div class="pub-tile">
