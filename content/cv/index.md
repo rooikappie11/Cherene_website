@@ -45,7 +45,7 @@ title: "Curriculum Vitae"
 See full lists on the [Publications](../publications/) and [Talks](../talks/) pages.
 
 ## Research Interests
-Burial archaeology; clandestine graves; forensic taphonomy; forensic ecogenomics; remote sensing; Egyptian archaeology
+Burial archaeology; Clandestine graves; Forensic taphonomy; Archaeothanatology; Forensic ecogenomics; Remote sensing; Egyptian archaeology
 
 ## Professional Memberships
 **Advanced HE**, Associate Fellow of the Higher Education Academy _(2026)_  
