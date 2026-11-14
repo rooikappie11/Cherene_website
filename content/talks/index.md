@@ -110,6 +110,7 @@ date: "2026-06-10"
 
 ## Science Communication and Outreach
 <div style="line-height: 1.5; margin-top: 8px;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start;">
 
 <!-- Dame  Sue Black  -->
   <div style="width: 300px; border: 1px solid #ddd; border-radius: 6px; overflow: hidden;">
@@ -135,12 +136,23 @@ date: "2026-06-10"
     </div>
   </div>
 
+</div>
 
 
-**Throw me in a ditch: An Archaeology Podcast — “The Past but Now”**  
-  *Cherene de Bruyn with Annabell Orlando, 4 September 2023*  
-  [Listen on Spotify](https://open.spotify.com/episode/5SNugy7m3iy1wZuNtTuySB?si=ed2fbb82b7cf4455)
+<!-- Throw me in a ditch Podcast -->
+<div style="width: 300px; border: 1px solid #ddd; border-radius: 6px; overflow: hidden;">
+  <a href="https://open.spotify.com/episode/5SNugy7m3iy1wZuNtTuySB?si=ed2fbb82b7cf4455" target="_blank">
+    <img src="/talks/spotify.png" alt="Throw me in a ditch podcast" style="width: 100%; display: block;">
+  </a>
 
+  <div style="padding: 10px;">
+    <strong>Throw me in a ditch: An Archaeology Podcast – "The Past but Now"</strong><br>
+    <em>Cherene de Bruyn with Annabell Orlando, 4 September 2023</em><br>
+    <a href="https://open.spotify.com/episode/5SNugy7m3iy1wZuNtTuySB?si=ed2fbb82b7cf4455" target="_blank">Listen on Spotify</a>
+  </div>
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start;">
   <!-- Leomile Mafutsanyana -->
   <div style="width: 300px; border: 1px solid #ddd; border-radius: 6px; overflow: hidden;">
     <a href="https://www.youtube.com/watch?v=zD-U3o9RlC4" target="_blank">
