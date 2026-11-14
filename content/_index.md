@@ -211,7 +211,7 @@ body, body * {
   <p class="inline-diamonds" style="margin-top:0; margin-bottom: 5px;">
     <span class="circle"></span> 
     <strong>The 79th American Academy Of Forensic Sciences (AAFS) Annual Scientific Conference, "Around the World and Beyond"</strong><br>
-    14–19 February 2027 <br>
+    15–19 February 2027 <br>
     Orlando, Florida, USA </p>
       <ul style="margin-top: 0; padding-top: 0;">
    <em> <li>Seasonal Soil Microbial Succession From Surface-Deposited Pigs in South Africa: Toward Postmortem Interval and Post-Depositional Interval Estimation Development</li><em>
